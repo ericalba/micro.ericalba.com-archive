@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ericalba.micro.blog/2022/10/26/figuring-out-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🦦 figuring out a few things...</p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-26T19:57:46-04:00",
+				"url": "https://micro.ericalba.com/2022/10/26/figuring-out-a.html"
+			},
+			{
+				"id": "http://ericalba.micro.blog/2022/10/26/test-from-mac.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>😀 test from mac shortcut -gr36</p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-26T11:55:37-04:00",
+				"url": "https://micro.ericalba.com/2022/10/26/test-from-mac.html"
+			},
+			{
+				"id": "http://ericalba.micro.blog/2022/10/26/testing-omglol-out.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🤞 testing omg.lol out.</p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-26T10:28:49-04:00",
+				"url": "https://micro.ericalba.com/2022/10/26/testing-omglol-out.html"
+			},
+			{
+				"id": "http://ericalba.micro.blog/2022/10/26/glad-they-didnt.html",
+				
+				"content_html": "<p>Glad they didn&rsquo;t.</p>\n<p><a href=\"https://theverge.com/23424294/microsoft-xbox-adaptive-controller-interview\">Microsoft nearly canceled its Xbox Adaptive Controller</a></p>\n<blockquote>\n<p>“There was a point in time when the Xbox controller that was designed for accessibility was on the cut list,” recounts Seiler. Microsoft was managing budgets, and it was about to be unfunded and never released. “Across teams, Xbox and Surface, we said, ‘No this is actually important for the world. This isn’t about revenue or brand positioning; it’s just important for people to be able to play games if they want to,’” says Seiler.</p>\n</blockquote>\n",
+				"content_text": "Glad they didn't. \r\n\r\n[Microsoft nearly canceled its Xbox Adaptive Controller](https://theverge.com/23424294/microsoft-xbox-adaptive-controller-interview)\r\n\r\n> “There was a point in time when the Xbox controller that was designed for accessibility was on the cut list,” recounts Seiler. Microsoft was managing budgets, and it was about to be unfunded and never released. “Across teams, Xbox and Surface, we said, ‘No this is actually important for the world. This isn’t about revenue or brand positioning; it’s just important for people to be able to play games if they want to,’” says Seiler.\r\n",
+				"date_published": "2022-10-26T10:06:04-04:00",
+				"url": "https://micro.ericalba.com/2022/10/26/glad-they-didnt.html"
+			},
+			{
 				"id": "http://ericalba.micro.blog/2022/10/17/test-post-lorem.html",
 				
 				"content_html": "<p>test post</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +51,7 @@
 				"id": "http://ericalba.micro.blog/2022/07/14/the-connecticut-lobster.html",
 				
 				"content_html": "<p>&ldquo;The Connecticut&rdquo; Lobster Roll - Lobster Poached in Butter and Lemon Served Warm and Tossed With Paprika and Scallions, Served in a Buttery, Grilled Split-Top Bun. Absolute Perfection.</p>\n<p>Garlic Biscuits - 8 Small Buttermilk Biscuits Slathered in Garlic Butter.</p>\n<p>The &ldquo;Coolada&rdquo; - Midori &amp; Vodka Shaken With Their House Piña Colada.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\"The Connecticut\" Lobster Roll - Lobster Poached in Butter and Lemon Served Warm and Tossed With Paprika and Scallions, Served in a Buttery, Grilled Split-Top Bun. Absolute Perfection. \n\nGarlic Biscuits - 8 Small Buttermilk Biscuits Slathered in Garlic Butter. \n\nThe \"Coolada\" - Midori & Vodka Shaken With Their House Piña Colada. \n\n<img src=\"uploads/2022/3b21425a0f.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/272dccb777.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\"The Connecticut\" Lobster Roll - Lobster Poached in Butter and Lemon Served Warm and Tossed With Paprika and Scallions, Served in a Buttery, Grilled Split-Top Bun. Absolute Perfection. \n\nGarlic Biscuits - 8 Small Buttermilk Biscuits Slathered in Garlic Butter. \n\nThe \"Coolada\" - Midori & Vodka Shaken With Their House Piña Colada. \n\n<img src=\"https://ericalba.micro.blog/uploads/2022/3b21425a0f.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2022/272dccb777.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-14T21:50:21-04:00",
 				"url": "https://micro.ericalba.com/2022/07/14/the-connecticut-lobster.html",
 				"tags": ["Photos"]
@@ -28,7 +60,7 @@
 				"id": "http://ericalba.micro.blog/2022/07/09/this-is-a.html",
 				"title": "this is a title",
 				"content_html": "<p>Test from sunlit app</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Section 2</p>\n<!-- raw HTML omitted -->\n<p>Section 3</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Test from sunlit app\n\n<a href=\"https://ericalba.micro.blog/uploads/2022/e3334a932d.png\"><img src=\"https://micro.blog/photos/200/https://ericalba.micro.blog/uploads/2022/e3334a932d.png\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://ericalba.micro.blog/uploads/2022/fb67d55017.jpg\"><img src=\"https://micro.blog/photos/200/https://ericalba.micro.blog/uploads/2022/fb67d55017.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nSection 2\n\n<img src=\"uploads/2022/eeafba2259.jpg\" width=\"600\" height=\"591\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nSection 3\n\n<img src=\"uploads/2022/74a566d198.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "Test from sunlit app\n\n<a href=\"https://ericalba.micro.blog/uploads/2022/e3334a932d.png\"><img src=\"https://micro.blog/photos/200/https://ericalba.micro.blog/uploads/2022/e3334a932d.png\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://ericalba.micro.blog/uploads/2022/fb67d55017.jpg\"><img src=\"https://micro.blog/photos/200/https://ericalba.micro.blog/uploads/2022/fb67d55017.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nSection 2\n\n<img src=\"https://ericalba.micro.blog/uploads/2022/eeafba2259.jpg\" width=\"600\" height=\"591\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nSection 3\n\n<img src=\"https://ericalba.micro.blog/uploads/2022/74a566d198.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2022-07-09T08:39:57-04:00",
 				"url": "https://micro.ericalba.com/2022/07/09/this-is-a.html",
 				"tags": ["Photos"]
@@ -37,7 +69,7 @@
 				"id": "http://ericalba.micro.blog/2022/07/09/a-test-there.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>fireworks over dupster fire</p>\n",
-				"content_text": "<img src=\"uploads/2022/fdb1c069b4.png\" width=\"600\" height=\"600\" alt=\"fireworks over dupster fire\" />\na test, there is not title in this post.\n\n\nfireworks over dupster fire\n\n",
+				"content_text": "<img src=\"https://ericalba.micro.blog/uploads/2022/fdb1c069b4.png\" width=\"600\" height=\"600\" alt=\"fireworks over dupster fire\" />\na test, there is not title in this post.\n\n\nfireworks over dupster fire\n\n",
 				"date_published": "2022-07-09T08:01:44-04:00",
 				"url": "https://micro.ericalba.com/2022/07/09/a-test-there.html",
 				"tags": ["Photos"]
@@ -46,7 +78,7 @@
 				"id": "http://ericalba.micro.blog/2022/07/07/231349.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/791da0ada9.jpg\" />\nTest upload. \nBlurry and dark. \n",
+				"content_text": "<img src=\"https://ericalba.micro.blog/uploads/2022/791da0ada9.jpg\" />\nTest upload. \nBlurry and dark. \n",
 				"date_published": "2022-07-07T23:13:49-04:00",
 				"url": "https://micro.ericalba.com/2022/07/07/231349.html",
 				"tags": ["Photos"]
@@ -95,7 +127,7 @@
 				"id": "http://ericalba.micro.blog/2019/11/10/ed-clark-paintings.html",
 				
 				"content_html": "<p>Ed Clark - Paintings 2000 - 2013\nBorn in 1926, and painting for almost 60 years, he created these between the age of 74 and 87.\nI really loved this show and would revisit it every week or whenever I was in the area.\nI hope I can make something as beautiful as these when I’m that age.\nSad to hear he passed away last month right after launching this show, he was 93 years old.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Ed Clark - Paintings 2000 - 2013 \nBorn in 1926, and painting for almost 60 years, he created these between the age of 74 and 87. \nI really loved this show and would revisit it every week or whenever I was in the area. \nI hope I can make something as beautiful as these when I’m that age. \nSad to hear he passed away last month right after launching this show, he was 93 years old.\n\n<img src=\"uploads/2019/9729e40129.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/565a3e6bd3.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/30d8061031.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c72868009c.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/d02c20e78d.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/041b82db71.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e9374b0db7.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/f5b929c39b.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/4087692f18.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/82f436edba.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ed Clark - Paintings 2000 - 2013 \nBorn in 1926, and painting for almost 60 years, he created these between the age of 74 and 87. \nI really loved this show and would revisit it every week or whenever I was in the area. \nI hope I can make something as beautiful as these when I’m that age. \nSad to hear he passed away last month right after launching this show, he was 93 years old.\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/9729e40129.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/565a3e6bd3.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/30d8061031.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/c72868009c.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/d02c20e78d.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/041b82db71.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e9374b0db7.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/f5b929c39b.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/4087692f18.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/82f436edba.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-10T19:15:35-04:00",
 				"url": "https://micro.ericalba.com/2019/11/10/ed-clark-paintings.html",
 				"tags": ["Photos"]
@@ -112,7 +144,7 @@
 				"id": "http://ericalba.micro.blog/2019/11/07/tbt-random-mirror.html",
 				
 				"content_html": "<p>#TBT random mirror shots &amp; selfies 2001 - 2003\nSF, Austin, Singapore</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#TBT random mirror shots & selfies 2001 - 2003\nSF, Austin, Singapore\n\n<img src=\"uploads/2019/c647be5f68.jpg\" width=\"600\" height=\"397\" alt=\"\" /><img src=\"uploads/2019/74765513bd.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"uploads/2019/cb59e57db5.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"uploads/2019/2824e5f407.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"uploads/2019/c120bd0238.jpg\" width=\"600\" height=\"399\" alt=\"\" /><img src=\"uploads/2019/9bbd138408.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"uploads/2019/b839e52a6e.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2019/35f1b7831d.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"uploads/2019/7155a8ae93.jpg\" width=\"600\" height=\"399\" alt=\"\" /><img src=\"uploads/2019/379d5c8b6a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "#TBT random mirror shots & selfies 2001 - 2003\nSF, Austin, Singapore\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/c647be5f68.jpg\" width=\"600\" height=\"397\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/74765513bd.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/cb59e57db5.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/2824e5f407.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/c120bd0238.jpg\" width=\"600\" height=\"399\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/9bbd138408.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/b839e52a6e.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/35f1b7831d.jpg\" width=\"600\" height=\"398\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/7155a8ae93.jpg\" width=\"600\" height=\"399\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/379d5c8b6a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-11-07T18:34:30-04:00",
 				"url": "https://micro.ericalba.com/2019/11/07/tbt-random-mirror.html",
 				"tags": ["Photos"]
@@ -121,7 +153,7 @@
 				"id": "http://ericalba.micro.blog/2019/11/05/lazy-autumn-sunday.html",
 				
 				"content_html": "<p>Lazy (Autumn) Sunday</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lazy (Autumn) Sunday\n\n<img src=\"uploads/2019/f2672e37b5.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/65db7992bd.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/85aae3655e.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Lazy (Autumn) Sunday\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/f2672e37b5.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/65db7992bd.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/85aae3655e.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-05T21:33:46-04:00",
 				"url": "https://micro.ericalba.com/2019/11/05/lazy-autumn-sunday.html",
 				"tags": ["Photos"]
@@ -130,7 +162,7 @@
 				"id": "http://ericalba.micro.blog/2019/11/04/new-hans-haacke.html",
 				
 				"content_html": "<p>New Hans Haacke exhibition at @newmuseum\n#HansHaake</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "New Hans Haacke exhibition at @newmuseum \n#HansHaake\n\n<img src=\"uploads/2019/846abddf87.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/0b9ec7d59f.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/171feca4bc.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/d88bc51766.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/ca085aeec6.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/62bbea6c17.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/53298e93f1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a2a759f987.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/761e55562f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "New Hans Haacke exhibition at @newmuseum \n#HansHaake\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/846abddf87.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/0b9ec7d59f.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/171feca4bc.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/d88bc51766.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/ca085aeec6.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/62bbea6c17.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/53298e93f1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/a2a759f987.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/761e55562f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-04T23:11:53-04:00",
 				"url": "https://micro.ericalba.com/2019/11/04/new-hans-haacke.html",
 				"tags": ["Photos"]
@@ -139,7 +171,7 @@
 				"id": "http://ericalba.micro.blog/2019/11/02/pork-spicy-garlic.html",
 				
 				"content_html": "<p>🍜  Pork Spicy Garlic Miso Ramen: Pork Chasu, Pork Belly, Egg, Thin Noodles, Chili Pepper, Grated Garlic, Scallions, Bean Sprouts.\nPerfect on a cold Toronto night at @KintonRamen 🔥🌶🍜🖤</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🍜  Pork Spicy Garlic Miso Ramen: Pork Chasu, Pork Belly, Egg, Thin Noodles, Chili Pepper, Grated Garlic, Scallions, Bean Sprouts.\nPerfect on a cold Toronto night at @KintonRamen 🔥🌶🍜🖤\n\n<img src=\"uploads/2019/dd066f279f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🍜  Pork Spicy Garlic Miso Ramen: Pork Chasu, Pork Belly, Egg, Thin Noodles, Chili Pepper, Grated Garlic, Scallions, Bean Sprouts.\nPerfect on a cold Toronto night at @KintonRamen 🔥🌶🍜🖤\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/dd066f279f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-02T12:13:55-04:00",
 				"url": "https://micro.ericalba.com/2019/11/02/pork-spicy-garlic.html",
 				"tags": ["Photos","Ramen"]
@@ -148,7 +180,7 @@
 				"id": "http://ericalba.micro.blog/2019/11/01/paul-chan-the.html",
 				
 				"content_html": "<p>Paul Chan- “The Barber’s Dilema” at @greenenaftali gallery\n@paul______chan</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Paul Chan- “The Barber’s Dilema” at @greenenaftali gallery \n@paul______chan\n\n<img src=\"uploads/2019/661a5b0447.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/fa6c284e84.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/1f70ffcd3d.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b6b8534f7f.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/72ee298027.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e2c04c327f.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/5b1a00d84a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/cfd0c97825.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/04e1fb82f8.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/28e511ea3f.jpg\" width=\"481\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Paul Chan- “The Barber’s Dilema” at @greenenaftali gallery \n@paul______chan\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/661a5b0447.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/fa6c284e84.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/1f70ffcd3d.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/b6b8534f7f.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/72ee298027.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e2c04c327f.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/5b1a00d84a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/cfd0c97825.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/04e1fb82f8.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/28e511ea3f.jpg\" width=\"481\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-01T23:42:37-04:00",
 				"url": "https://micro.ericalba.com/2019/11/01/paul-chan-the.html",
 				"tags": ["Photos"]
@@ -157,7 +189,7 @@
 				"id": "http://ericalba.micro.blog/2019/10/31/richard-anuszkiewicz-temple.html",
 				
 				"content_html": "<p>Richard Anuszkiewicz “Temple Series II 1983-2019” at @lorettahowardgallery</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Richard Anuszkiewicz “Temple Series II 1983-2019” at @lorettahowardgallery\n\n<img src=\"uploads/2019/3e08190f62.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e283da8462.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/af4af7f649.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a3cb349518.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/88324f5191.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Richard Anuszkiewicz “Temple Series II 1983-2019” at @lorettahowardgallery\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/3e08190f62.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e283da8462.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/af4af7f649.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/a3cb349518.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/88324f5191.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-31T21:43:00-04:00",
 				"url": "https://micro.ericalba.com/2019/10/31/richard-anuszkiewicz-temple.html",
 				"tags": ["Photos"]
@@ -166,7 +198,7 @@
 				"id": "http://ericalba.micro.blog/2019/10/31/richard-serra-reverse.html",
 				
 				"content_html": "<p>Lazy (Autumn) Sunday</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lazy (Autumn) Sunday\n\n<img src=\"uploads/2019/f2672e37b5.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/65db7992bd.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/85aae3655e.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Lazy (Autumn) Sunday\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/f2672e37b5.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/65db7992bd.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/85aae3655e.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-31T08:40:52-04:00",
 				"url": "https://micro.ericalba.com/2019/10/31/richard-serra-reverse.html",
 				"tags": ["Photos"]
@@ -175,7 +207,7 @@
 				"id": "http://ericalba.micro.blog/2019/10/30/jason-rhoades-tijuanatanjierchandeliergreat.html",
 				
 				"content_html": "<p>Jason Rhoades “Tijuanatanjierchandelier”\nGreat install. My photography advice is pick an exposure based on brightest sign and lock it while in here.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Jason Rhoades “Tijuanatanjierchandelier”\nGreat install. My photography advice is pick an exposure based on brightest sign and lock it while in here.\n\n<img src=\"uploads/2019/caeebcac92.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/9f61166415.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b7e773a774.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/cf5410b209.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c061c46d2a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/da6d0f4103.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a05bf1159e.jpg\" width=\"481\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Jason Rhoades “Tijuanatanjierchandelier”\nGreat install. My photography advice is pick an exposure based on brightest sign and lock it while in here.\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/caeebcac92.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/9f61166415.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/b7e773a774.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/cf5410b209.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/c061c46d2a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/da6d0f4103.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/a05bf1159e.jpg\" width=\"481\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-30T20:47:31-04:00",
 				"url": "https://micro.ericalba.com/2019/10/30/jason-rhoades-tijuanatanjierchandeliergreat.html",
 				"tags": ["Photos"]
@@ -184,7 +216,7 @@
 				"id": "http://ericalba.micro.blog/2019/10/29/leon-berkowitz-thresholds.html",
 				
 				"content_html": "<p>Leon  Berkowitz: Thresholds of Perceptability: The Color Field Paintings</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Leon  Berkowitz: Thresholds of Perceptability: The Color Field Paintings\n\n<img src=\"uploads/2019/7711e8c2e8.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/4f12dbf9ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/1c5f592f85.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2019/4d9a887bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/191115a681.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/4da1418bd3.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/77cd4023ea.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2019/e69b4ef9c8.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e865f024a2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/1239d3b0d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Leon  Berkowitz: Thresholds of Perceptability: The Color Field Paintings\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/7711e8c2e8.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/4f12dbf9ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/1c5f592f85.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/4d9a887bc1.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/191115a681.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/4da1418bd3.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/77cd4023ea.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e69b4ef9c8.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e865f024a2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/1239d3b0d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-29T23:32:38-04:00",
 				"url": "https://micro.ericalba.com/2019/10/29/leon-berkowitz-thresholds.html",
 				"tags": ["Photos"]
@@ -193,7 +225,7 @@
 				"id": "http://ericalba.micro.blog/2019/10/27/finally-found-a.html",
 				
 				"content_html": "<p>Finally found a profile pic that doesn’t suck. The price was torturing my friends with my karaoke rendition of “Wonderwall” at @antfood.music party. Worth it. (Swipe for video)\nThanks for 💪📸 by @gui_mm</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Finally found a profile pic that doesn’t suck. The price was torturing my friends with my karaoke rendition of “Wonderwall” at @antfood.music party. Worth it. (Swipe for video)\nThanks for 💪📸 by @gui_mm\n\n<img src=\"uploads/2019/364b548a45.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/39cf2b64f9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/a58c93ea63.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Finally found a profile pic that doesn’t suck. The price was torturing my friends with my karaoke rendition of “Wonderwall” at @antfood.music party. Worth it. (Swipe for video)\nThanks for 💪📸 by @gui_mm\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/364b548a45.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/39cf2b64f9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/a58c93ea63.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-10-27T20:05:09-04:00",
 				"url": "https://micro.ericalba.com/2019/10/27/finally-found-a.html",
 				"tags": ["Photos"]
@@ -202,7 +234,7 @@
 				"id": "http://ericalba.micro.blog/2019/10/26/suh-seungwon-early.html",
 				
 				"content_html": "<p>Suh Seung-Won - Early Works: 1960s to 1980s</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Suh Seung-Won - Early Works: 1960s to 1980s\n\n<img src=\"uploads/2019/3e10867ac2.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b98892670d.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/4ed5a70aa1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e95ca917fa.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/86ccb3ddc8.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/3a889d55cc.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/8c6f898d86.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/1b03ca136b.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/819145e891.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/0cdaeee661.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Suh Seung-Won - Early Works: 1960s to 1980s\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/3e10867ac2.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/b98892670d.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/4ed5a70aa1.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e95ca917fa.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/86ccb3ddc8.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/3a889d55cc.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/8c6f898d86.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/1b03ca136b.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/819145e891.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/0cdaeee661.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-26T12:00:25-04:00",
 				"url": "https://micro.ericalba.com/2019/10/26/suh-seungwon-early.html",
 				"tags": ["Photos"]
@@ -211,7 +243,7 @@
 				"id": "http://ericalba.micro.blog/2019/09/25/test-seattle-airport.html",
 				
 				"content_html": "<p>Test: Seattle Airport Parking Bench. #shotoniphone11promax wide lens</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Test: Seattle Airport Parking Bench. #shotoniphone11promax wide lens\n\n<img src=\"uploads/2019/854bf569a0.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/09162c6f8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/2afbd81153.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Test: Seattle Airport Parking Bench. #shotoniphone11promax wide lens\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/854bf569a0.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/09162c6f8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/2afbd81153.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-09-25T18:28:08-04:00",
 				"url": "https://micro.ericalba.com/2019/09/25/test-seattle-airport.html",
 				"tags": ["Photos"]
@@ -220,7 +252,7 @@
 				"id": "http://ericalba.micro.blog/2019/07/28/monterey-ca.html",
 				
 				"content_html": "<p>Monterey, CA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Monterey, CA\n\n<img src=\"uploads/2019/24036c2b57.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/42920f1680.jpg\" width=\"479\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/1a587bc316.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/f614833104.jpg\" width=\"479\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/0594b4dce2.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/d7ee2f1ce9.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a341c93d97.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/69128d1b61.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e8681e88d3.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Monterey, CA\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/24036c2b57.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/42920f1680.jpg\" width=\"479\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/1a587bc316.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/f614833104.jpg\" width=\"479\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/0594b4dce2.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/d7ee2f1ce9.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/a341c93d97.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/69128d1b61.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e8681e88d3.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-28T12:06:44-04:00",
 				"url": "https://micro.ericalba.com/2019/07/28/monterey-ca.html",
 				"tags": ["Photos"]
@@ -229,7 +261,7 @@
 				"id": "http://ericalba.micro.blog/2019/06/29/random-friday.html",
 				
 				"content_html": "<p>Random Friday</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Random Friday\n\n<img src=\"uploads/2019/0271455e1a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/070867f830.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/f3ac21fd0c.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Random Friday\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/0271455e1a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/070867f830.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/f3ac21fd0c.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-29T20:17:08-04:00",
 				"url": "https://micro.ericalba.com/2019/06/29/random-friday.html",
 				"tags": ["Photos"]
@@ -254,7 +286,7 @@
 				"id": "http://ericalba.micro.blog/2019/05/31/flashbackfriday-years-ago.html",
 				
 				"content_html": "<p>Flashbackfriday 7 years ago today.\nFull scale prototyping of the project that pivoted me down a new path. Nike Camp Victory couldn’t have been done without many talented teams &amp; individuals who all knew way more than me and were patient enough to teach me.\nThanks to @officialhushstudios @davidhschwarz @ekarasyk @wassupjodi @ryanmcgrath___ for trusting me with a great project. @stirfrybokchoy and @indigostarchi for being the linchpin’s in managing all the moving parts. 🖤🙏 to\n@stitzstudio\n@avcnyc\n@redpaperhearts\n@antfood.music\n@ivansafrin\n@therealsalih\n@andresalyer\n@sharkbox\n@jefftimesten\n@dscheibel\n@wilsonbrown\n@wsguerin and everyone else I forgot here. Apologies for sappy nostalgia feels. It was a monster but y’all made it not scary and because of that, this is all I wanna do now, and hopefully with some or all of you again. 🙌</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Flashbackfriday 7 years ago today. \nFull scale prototyping of the project that pivoted me down a new path. Nike Camp Victory couldn’t have been done without many talented teams & individuals who all knew way more than me and were patient enough to teach me. \nThanks to @officialhushstudios @davidhschwarz @ekarasyk @wassupjodi @ryanmcgrath___ for trusting me with a great project. @stirfrybokchoy and @indigostarchi for being the linchpin’s in managing all the moving parts. 🖤🙏 to \n@stitzstudio \n@avcnyc \n@redpaperhearts \n@antfood.music \n@ivansafrin \n@therealsalih \n@andresalyer \n@sharkbox \n@jefftimesten \n@dscheibel \n@wilsonbrown \n@wsguerin and everyone else I forgot here. Apologies for sappy nostalgia feels. It was a monster but y’all made it not scary and because of that, this is all I wanna do now, and hopefully with some or all of you again. 🙌\n\n<img src=\"uploads/2019/315c713427.jpg\" width=\"600\" height=\"451\" alt=\"\" /><img src=\"uploads/2019/8b378d3a0f.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2019/fd99491010.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2019/297ee060c0.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"uploads/2019/2648e0e88d.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"uploads/2019/58acf9f956.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2019/494ae2a625.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2019/322af67a50.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"uploads/2019/9d05f22849.jpg\" width=\"600\" height=\"451\" alt=\"\" /><img src=\"uploads/2019/9098379984.jpg\" width=\"600\" height=\"452\" alt=\"\" />\n",
+				"content_text": "Flashbackfriday 7 years ago today. \nFull scale prototyping of the project that pivoted me down a new path. Nike Camp Victory couldn’t have been done without many talented teams & individuals who all knew way more than me and were patient enough to teach me. \nThanks to @officialhushstudios @davidhschwarz @ekarasyk @wassupjodi @ryanmcgrath___ for trusting me with a great project. @stirfrybokchoy and @indigostarchi for being the linchpin’s in managing all the moving parts. 🖤🙏 to \n@stitzstudio \n@avcnyc \n@redpaperhearts \n@antfood.music \n@ivansafrin \n@therealsalih \n@andresalyer \n@sharkbox \n@jefftimesten \n@dscheibel \n@wilsonbrown \n@wsguerin and everyone else I forgot here. Apologies for sappy nostalgia feels. It was a monster but y’all made it not scary and because of that, this is all I wanna do now, and hopefully with some or all of you again. 🙌\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/315c713427.jpg\" width=\"600\" height=\"451\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/8b378d3a0f.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/fd99491010.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/297ee060c0.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/2648e0e88d.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/58acf9f956.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/494ae2a625.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/322af67a50.jpg\" width=\"600\" height=\"452\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/9d05f22849.jpg\" width=\"600\" height=\"451\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/9098379984.jpg\" width=\"600\" height=\"452\" alt=\"\" />\n",
 				"date_published": "2019-05-31T17:27:47-04:00",
 				"url": "https://micro.ericalba.com/2019/05/31/flashbackfriday-years-ago.html",
 				"tags": ["Photos"]
@@ -263,7 +295,7 @@
 				"id": "http://ericalba.micro.blog/2019/05/26/hi-brooklyn-its.html",
 				
 				"content_html": "<p>Hi Brooklyn, it’s good to be home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hi Brooklyn, it’s good to be home.\n\n<img src=\"uploads/2019/4a2e2aabe4.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hi Brooklyn, it’s good to be home.\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/4a2e2aabe4.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-26T11:48:24-04:00",
 				"url": "https://micro.ericalba.com/2019/05/26/hi-brooklyn-its.html",
 				"tags": ["Photos"]
@@ -280,7 +312,7 @@
 				"id": "http://ericalba.micro.blog/2019/05/18/grid.html",
 				
 				"content_html": "<p>Grid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Grid\n\n<img src=\"uploads/2019/cf09323697.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Grid\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/cf09323697.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-18T22:59:29-04:00",
 				"url": "https://micro.ericalba.com/2019/05/18/grid.html",
 				"tags": ["Photos"]
@@ -297,7 +329,7 @@
 				"id": "http://ericalba.micro.blog/2019/03/30/conduit-no-by.html",
 				
 				"content_html": "<p>&ldquo;Conduit No 4&rdquo; by @lowresny at 325 Canal St.\n@wallplaynetwork #oncanal\n<a href=\"http://www.oncanal.nyc\">www.oncanal.nyc</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\"Conduit No 4\" by @lowresny at 325 Canal St. \n@wallplaynetwork #oncanal \nwww.oncanal.nyc\n\n<img src=\"uploads/2019/2a787e57bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/77519988cd.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a84e658a52.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b3c17fc794.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/ebecfac01a.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/40b40af367.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/ce0237e4e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/72492ece1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\"Conduit No 4\" by @lowresny at 325 Canal St. \n@wallplaynetwork #oncanal \nwww.oncanal.nyc\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/2a787e57bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/77519988cd.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/a84e658a52.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/b3c17fc794.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/ebecfac01a.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/40b40af367.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/ce0237e4e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/72492ece1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-30T00:50:20-04:00",
 				"url": "https://micro.ericalba.com/2019/03/30/conduit-no-by.html",
 				"tags": ["Photos"]
@@ -306,7 +338,7 @@
 				"id": "http://ericalba.micro.blog/2019/03/23/fun-night-w.html",
 				
 				"content_html": "<p>Fun night w/ @touchdesigner friends. @volvoxlabs + <a href=\"https://micro.blog/vincent\">@vincent</a> = Kuka robot fun. Seeing @ariadne.digital @evilvillain @etmthree <a href=\"https://micro.blog/mary\">@mary</a> plus @dprife @gabeliberti @hardworkparty and i got to watch American Beauty tryouts &hellip;\n#touchdesigner</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Fun night w/ @touchdesigner friends. @volvoxlabs + [@vincent](https://micro.blog/vincent) = Kuka robot fun. Seeing @ariadne.digital @evilvillain @etmthree [@mary](https://micro.blog/mary) plus @dprife @gabeliberti @hardworkparty and i got to watch American Beauty tryouts ...\n#touchdesigner\n\n<img src=\"uploads/2019/ec881aa358.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/edcc5066d2.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/7bdcfbc946.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/cec2e1ca91.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/6107095488.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e1efac09e7.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/32371f2693.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/736d3ff45e.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/f278cf9e79.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/64c0c419be.jpg\" width=\"481\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Fun night w/ @touchdesigner friends. @volvoxlabs + [@vincent](https://micro.blog/vincent) = Kuka robot fun. Seeing @ariadne.digital @evilvillain @etmthree [@mary](https://micro.blog/mary) plus @dprife @gabeliberti @hardworkparty and i got to watch American Beauty tryouts ...\n#touchdesigner\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/ec881aa358.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/edcc5066d2.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/7bdcfbc946.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/cec2e1ca91.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/6107095488.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e1efac09e7.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/32371f2693.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/736d3ff45e.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/f278cf9e79.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/64c0c419be.jpg\" width=\"481\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-23T12:20:44-04:00",
 				"url": "https://micro.ericalba.com/2019/03/23/fun-night-w.html",
 				"tags": ["Photos"]
@@ -315,7 +347,7 @@
 				"id": "http://ericalba.micro.blog/2019/03/20/failure-is-feedback.html",
 				
 				"content_html": "<p>“Failure is feedback. And feedback is the breakfast of champions.” - from chocolate fortune cookie at @generaldebs . with @stirfrybokchoy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Failure is feedback. And feedback is the breakfast of champions.” - from chocolate fortune cookie at @generaldebs . with @stirfrybokchoy\n\n<img src=\"uploads/2019/21d1883ce2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "“Failure is feedback. And feedback is the breakfast of champions.” - from chocolate fortune cookie at @generaldebs . with @stirfrybokchoy\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/21d1883ce2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-20T01:40:09-04:00",
 				"url": "https://micro.ericalba.com/2019/03/20/failure-is-feedback.html",
 				"tags": ["Photos"]
@@ -324,7 +356,7 @@
 				"id": "http://ericalba.micro.blog/2019/03/05/blue-hour-in.html",
 				
 				"content_html": "<p>Blue hour in Portland, OR.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blue hour in Portland, OR.\n\n<img src=\"uploads/2019/859d7e5e70.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Blue hour in Portland, OR.\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/859d7e5e70.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2019-03-05T22:36:28-04:00",
 				"url": "https://micro.ericalba.com/2019/03/05/blue-hour-in.html",
 				"tags": ["Photos"]
@@ -333,7 +365,7 @@
 				"id": "http://ericalba.micro.blog/2019/02/28/ankake-udon-chicken.html",
 				
 				"content_html": "<p>Ankake Udon: Chicken &amp; Egg Drop in Thick Soup. The egg drops, udon, and chicken were all perfect.\nAppetizer Is my favorite, Ohitashi: Boiled Spinach &amp; Shaved Bonito Flakes.\n#at @rakunyc</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Ankake Udon: Chicken & Egg Drop in Thick Soup. The egg drops, udon, and chicken were all perfect. \nAppetizer Is my favorite, Ohitashi: Boiled Spinach & Shaved Bonito Flakes. \n#at @rakunyc\n\n<img src=\"uploads/2019/84e01410ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/40a73af5e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/54ab6dbc80.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ankake Udon: Chicken & Egg Drop in Thick Soup. The egg drops, udon, and chicken were all perfect. \nAppetizer Is my favorite, Ohitashi: Boiled Spinach & Shaved Bonito Flakes. \n#at @rakunyc\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/84e01410ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/40a73af5e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/54ab6dbc80.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-28T05:18:19-04:00",
 				"url": "https://micro.ericalba.com/2019/02/28/ankake-udon-chicken.html",
 				"tags": ["Photos"]
@@ -342,7 +374,7 @@
 				"id": "http://ericalba.micro.blog/2019/02/25/hilma-af-klint.html",
 				
 				"content_html": "<p>Hilma af Klint: Paintings for the Future\nat the @guggenheim\nfrom the museum: “When Hilma af Klint began creating radically abstract paintings in 1906, they were like little that had been seen before: bold, colorful, and untethered from any recognizable references to the physical world. It was years before Vasily Kandinsky, Kazimir Malevich, Piet Mondrian, and others would take similar strides to rid their own artwork of representational content. Yet while many of her better-known contemporaries published manifestos and exhibited widely, af Klint kept her groundbreaking paintings largely private. She rarely exhibited them and, convinced the world was not yet ready to understand her work, stipulated that it not be shown for twenty years following her death. Ultimately, her work was all but unseen until 1986, and only over the subsequent three decades have her paintings and works on paper begun to receive serious attention.\n&hellip;\nThis survey of Hilma af Klint’s work will be the first major solo exhibition in the United States devoted to the artist, offering an unprecedented opportunity to experience af Klint’s long-underrecognized artistic achievements. Organized by Tracey Bashkoff, Director of Collections and Senior Curator, with David Horowitz, Curatorial Assistant, the exhibition will focus on the artist’s breakthrough years, 1906–20, when she first began to produce nonobjective and stunningly imaginative paintings, creating a singular body of work that invites a reevaluation of modernism and its development.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hilma af Klint: Paintings for the Future\nat the @guggenheim \nfrom the museum: “When Hilma af Klint began creating radically abstract paintings in 1906, they were like little that had been seen before: bold, colorful, and untethered from any recognizable references to the physical world. It was years before Vasily Kandinsky, Kazimir Malevich, Piet Mondrian, and others would take similar strides to rid their own artwork of representational content. Yet while many of her better-known contemporaries published manifestos and exhibited widely, af Klint kept her groundbreaking paintings largely private. She rarely exhibited them and, convinced the world was not yet ready to understand her work, stipulated that it not be shown for twenty years following her death. Ultimately, her work was all but unseen until 1986, and only over the subsequent three decades have her paintings and works on paper begun to receive serious attention.\n...\nThis survey of Hilma af Klint’s work will be the first major solo exhibition in the United States devoted to the artist, offering an unprecedented opportunity to experience af Klint’s long-underrecognized artistic achievements. Organized by Tracey Bashkoff, Director of Collections and Senior Curator, with David Horowitz, Curatorial Assistant, the exhibition will focus on the artist’s breakthrough years, 1906–20, when she first began to produce nonobjective and stunningly imaginative paintings, creating a singular body of work that invites a reevaluation of modernism and its development.\n\n<img src=\"uploads/2019/cf84958345.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/479472f25b.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a4697650ac.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/5d4d3157ca.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a66fac2be6.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/42b1111735.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b53411cb35.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/2f43a92ed8.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/9d051d1aba.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hilma af Klint: Paintings for the Future\nat the @guggenheim \nfrom the museum: “When Hilma af Klint began creating radically abstract paintings in 1906, they were like little that had been seen before: bold, colorful, and untethered from any recognizable references to the physical world. It was years before Vasily Kandinsky, Kazimir Malevich, Piet Mondrian, and others would take similar strides to rid their own artwork of representational content. Yet while many of her better-known contemporaries published manifestos and exhibited widely, af Klint kept her groundbreaking paintings largely private. She rarely exhibited them and, convinced the world was not yet ready to understand her work, stipulated that it not be shown for twenty years following her death. Ultimately, her work was all but unseen until 1986, and only over the subsequent three decades have her paintings and works on paper begun to receive serious attention.\n...\nThis survey of Hilma af Klint’s work will be the first major solo exhibition in the United States devoted to the artist, offering an unprecedented opportunity to experience af Klint’s long-underrecognized artistic achievements. Organized by Tracey Bashkoff, Director of Collections and Senior Curator, with David Horowitz, Curatorial Assistant, the exhibition will focus on the artist’s breakthrough years, 1906–20, when she first began to produce nonobjective and stunningly imaginative paintings, creating a singular body of work that invites a reevaluation of modernism and its development.\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/cf84958345.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/479472f25b.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/a4697650ac.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/5d4d3157ca.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/a66fac2be6.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/42b1111735.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/b53411cb35.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/2f43a92ed8.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/9d051d1aba.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-25T21:46:16-04:00",
 				"url": "https://micro.ericalba.com/2019/02/25/hilma-af-klint.html",
 				"tags": ["Photos"]
@@ -351,7 +383,7 @@
 				"id": "http://ericalba.micro.blog/2019/02/25/lucio-fontana-neon.html",
 				
 				"content_html": "<p>Lucio Fontana: &ldquo;Neon Structure for the Ninth Milan Triennial (Struttura al Neon per la IX Triennale di Milano)&rdquo;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lucio Fontana: \"Neon Structure for the Ninth Milan Triennial (Struttura al Neon per la IX Triennale di Milano)\"\n\n<img src=\"uploads/2019/551f7818dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/38b8605196.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2019/db4289b613.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Lucio Fontana: \"Neon Structure for the Ninth Milan Triennial (Struttura al Neon per la IX Triennale di Milano)\"\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/551f7818dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/38b8605196.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/db4289b613.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-25T01:18:35-04:00",
 				"url": "https://micro.ericalba.com/2019/02/25/lucio-fontana-neon.html",
 				"tags": ["Photos"]
@@ -360,7 +392,7 @@
 				"id": "http://ericalba.micro.blog/2019/02/09/daniel-rozin-sol.html",
 				
 				"content_html": "<p>Daniel Rozin ‘Sol’ show at @bitforms . In order, ‘Sunset Mirror’ , “Fabric Mirror’ (has over 400x motors) , ‘Cracked Mud’ .</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Daniel Rozin ‘Sol’ show at @bitforms . In order, ‘Sunset Mirror’ , “Fabric Mirror’ (has over 400x motors) , ‘Cracked Mud’ .\n\n<img src=\"uploads/2019/a23619550a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/3af9ece1fe.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/66352d3d87.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/d50e425471.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/8b4506aa94.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c9b07c7871.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b1120938b9.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Daniel Rozin ‘Sol’ show at @bitforms . In order, ‘Sunset Mirror’ , “Fabric Mirror’ (has over 400x motors) , ‘Cracked Mud’ .\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/a23619550a.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/3af9ece1fe.jpg\" width=\"481\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/66352d3d87.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/d50e425471.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/8b4506aa94.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/c9b07c7871.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/b1120938b9.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-09T20:13:30-04:00",
 				"url": "https://micro.ericalba.com/2019/02/09/daniel-rozin-sol.html",
 				"tags": ["Photos"]
@@ -369,7 +401,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/24/duck-broth-ramen.html",
 				
 				"content_html": "<p>🍜 Duck Broth Ramen with Whole Duck Leg at @Teo_Brooklyn . Unlike Baoburg’s Duck ramen which has duck consomè, this is a a more rich &amp; tasty broth, perfect for ramen.\nAlso check out Shortribs w/SPAM Fried Rice, Octopus Yakitori and Chicken Skin Yakitori. 😋</p>\n<p>@wenyeb @mwlmw @kindakash</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🍜 Duck Broth Ramen with Whole Duck Leg at @Teo_Brooklyn . Unlike Baoburg’s Duck ramen which has duck consomè, this is a a more rich & tasty broth, perfect for ramen. \nAlso check out Shortribs w/SPAM Fried Rice, Octopus Yakitori and Chicken Skin Yakitori. 😋\n\n@wenyeb @mwlmw @kindakash\n\n<img src=\"uploads/2019/e768dbf643.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c5cf5f6f50.jpg\" width=\"517\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/30da122e6f.jpg\" width=\"520\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/452c85ecf8.jpg\" width=\"520\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/cdae2aec92.jpg\" width=\"520\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🍜 Duck Broth Ramen with Whole Duck Leg at @Teo_Brooklyn . Unlike Baoburg’s Duck ramen which has duck consomè, this is a a more rich & tasty broth, perfect for ramen. \nAlso check out Shortribs w/SPAM Fried Rice, Octopus Yakitori and Chicken Skin Yakitori. 😋\n\n@wenyeb @mwlmw @kindakash\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/e768dbf643.jpg\" width=\"480\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/c5cf5f6f50.jpg\" width=\"517\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/30da122e6f.jpg\" width=\"520\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/452c85ecf8.jpg\" width=\"520\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/cdae2aec92.jpg\" width=\"520\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-24T02:11:01-04:00",
 				"url": "https://micro.ericalba.com/2019/01/24/duck-broth-ramen.html",
 				"tags": ["Photos","Ramen"]
@@ -378,7 +410,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/21/claudiacomte-the-morphing.html",
 				
 				"content_html": "<p>. @ClaudiaComte “The Morphing Scallops” at  @Gladstone.Gallery on 515 W24th NYC until Feb 16th. Warning: #OpArt Dizziness may ensue 🥴\nJust Go! I 😍 🖤</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": ". @ClaudiaComte “The Morphing Scallops” at  @Gladstone.Gallery on 515 W24th NYC until Feb 16th. Warning: #OpArt Dizziness may ensue 🥴 \nJust Go! I 😍 🖤\n\n<img src=\"uploads/2019/0fe300e7d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/3a49eaa765.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/8c871ae74c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/6ae61f4da7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/923e3bec53.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/864a82f745.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/20418cf64f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/4f0368685e.jpg\" width=\"600\" height=\"599\" alt=\"\" /> \n",
+				"content_text": ". @ClaudiaComte “The Morphing Scallops” at  @Gladstone.Gallery on 515 W24th NYC until Feb 16th. Warning: #OpArt Dizziness may ensue 🥴 \nJust Go! I 😍 🖤\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/0fe300e7d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/3a49eaa765.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/8c871ae74c.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/6ae61f4da7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/923e3bec53.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/864a82f745.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/20418cf64f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/4f0368685e.jpg\" width=\"600\" height=\"599\" alt=\"\" /> \n",
 				"date_published": "2019-01-21T20:30:52-04:00",
 				"url": "https://micro.ericalba.com/2019/01/21/claudiacomte-the-morphing.html",
 				"tags": ["Photos"]
@@ -387,7 +419,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/20/tatsuo-miyajima-at.html",
 				
 				"content_html": "<p>Tatsuo Miyajima at @lisson_gallery</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tatsuo Miyajima at @lisson_gallery\n\n<img src=\"uploads/2019/2a68015bdc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/8cf484dfcc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/db339194d4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/bb64d6d730.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/9212b38018.jpg\" width=\"600\" height=\"600\" alt=\"\" /> \n",
+				"content_text": "Tatsuo Miyajima at @lisson_gallery\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/2a68015bdc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/8cf484dfcc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/db339194d4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/bb64d6d730.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/9212b38018.jpg\" width=\"600\" height=\"600\" alt=\"\" /> \n",
 				"date_published": "2019-01-20T12:30:00-04:00",
 				"url": "https://micro.ericalba.com/2019/01/20/tatsuo-miyajima-at.html",
 				"tags": ["Photos"]
@@ -396,7 +428,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/09/chicken-paitan-tantan.html",
 				
 				"content_html": "<p>🍜 Chicken Paitan Tan-Tan Spicy Miso Ramen: Slow Braised Whole Chicken Leg, Spicy Ground Chicken, Toasted Sesame, Cilantro, Scallion, Fried Gobo, Spice Bomb. At @NojoRamen in Hayes Valley, San Francisco.</p>\n<p>This was so damn good. Plus, they also give this handy small strainer (swipe for pic) so you can get all the small bits.\nBetween Nojo, Mensho Tokyo and Marufuku, the SF 🍜 game is Noice.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🍜 Chicken Paitan Tan-Tan Spicy Miso Ramen: Slow Braised Whole Chicken Leg, Spicy Ground Chicken, Toasted Sesame, Cilantro, Scallion, Fried Gobo, Spice Bomb. At @NojoRamen in Hayes Valley, San Francisco.\n\nThis was so damn good. Plus, they also give this handy small strainer (swipe for pic) so you can get all the small bits. \nBetween Nojo, Mensho Tokyo and Marufuku, the SF 🍜 game is Noice.\n\n<img src=\"uploads/2019/02870fd3a7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/85f9705e51.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🍜 Chicken Paitan Tan-Tan Spicy Miso Ramen: Slow Braised Whole Chicken Leg, Spicy Ground Chicken, Toasted Sesame, Cilantro, Scallion, Fried Gobo, Spice Bomb. At @NojoRamen in Hayes Valley, San Francisco.\n\nThis was so damn good. Plus, they also give this handy small strainer (swipe for pic) so you can get all the small bits. \nBetween Nojo, Mensho Tokyo and Marufuku, the SF 🍜 game is Noice.\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/02870fd3a7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/85f9705e51.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-09T04:46:44-04:00",
 				"url": "https://micro.ericalba.com/2019/01/09/chicken-paitan-tantan.html",
 				"tags": ["Photos","Ramen"]
@@ -405,7 +437,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/07/jenny-holzer-at.html",
 				
 				"content_html": "<p>Jenny Holzer at @MASSMoCA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Jenny Holzer at @MASSMoCA\n\n<img src=\"uploads/2019/73191c8f5f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c3fa44a12f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/8df1bc1bf0.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/43e074eeed.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2019/4a7dcd6300.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/89f69d46b6.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/5bebe0e0f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/2c0475309e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/5b5906a9c4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e0896883ff.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Jenny Holzer at @MASSMoCA\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/73191c8f5f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/c3fa44a12f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/8df1bc1bf0.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/43e074eeed.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/4a7dcd6300.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/89f69d46b6.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/5bebe0e0f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/2c0475309e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/5b5906a9c4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/e0896883ff.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-07T20:29:24-04:00",
 				"url": "https://micro.ericalba.com/2019/01/07/jenny-holzer-at.html",
 				"tags": ["Photos"]
@@ -414,7 +446,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/06/yellow-protection.html",
 				
 				"content_html": "<p>Yellow Protection.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yellow Protection.\n\n<img src=\"uploads/2019/91b75ec614.jpg\" alt=\"\" />\n",
+				"content_text": "Yellow Protection.\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/91b75ec614.jpg\" alt=\"\" />\n",
 				"date_published": "2019-01-06T13:24:43-04:00",
 				"url": "https://micro.ericalba.com/2019/01/06/yellow-protection.html",
 				"tags": ["Photos"]
@@ -423,7 +455,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/05/anthony-mccall-split.html",
 				
 				"content_html": "<p>Anthony McCall “Split Second” show at @seankellyny</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Anthony McCall “Split Second” show at @seankellyny\n\n<img src=\"uploads/2019/70a0e9253d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/ecbdea8b06.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/6a1fac2e7f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/7ac74a8f30.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/6f649a9848.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b940c925ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/1018ea504d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/d14c38da60.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/b4d34b3951.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Anthony McCall “Split Second” show at @seankellyny\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/70a0e9253d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/ecbdea8b06.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/6a1fac2e7f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/7ac74a8f30.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/6f649a9848.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/b940c925ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/1018ea504d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/d14c38da60.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/b4d34b3951.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-01-05T17:11:25-04:00",
 				"url": "https://micro.ericalba.com/2019/01/05/anthony-mccall-split.html",
 				"tags": ["Photos"]
@@ -432,7 +464,7 @@
 				"id": "http://ericalba.micro.blog/2019/01/01/classic-chasumen-fukuoka.html",
 				
 				"content_html": "<p>🍜 Classic Chasu-Men: Fukuoka (Kyushu Hakata)-Style Tonkotsu Pork Bone Broth With Thin Noodles, Six Slices of Pork Chasu, Scallions a Ball of Karadare (Umami Spicy Sauce). At Ramen Danbo&rsquo;s (@ramendanbo_usa ) new Brooklyn location.\nThis ramen is soooo good, taking the best parts of Ichiran or Ippudo.\nYou can customize; 1) Noodle thickness 2) Noodle firmness 3) Broth thickness 4) Broth richness (lard) and 5) how much Karadare (Umami spice). They even offer 1/2 or full order of Kaedama (extra noodles) of you run out before you finish your broth.\nIf you like Ramen, go!\nAlso, if you look at this photo upside down, it looks like an emoji. 😏</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🍜 Classic Chasu-Men: Fukuoka (Kyushu Hakata)-Style Tonkotsu Pork Bone Broth With Thin Noodles, Six Slices of Pork Chasu, Scallions a Ball of Karadare (Umami Spicy Sauce). At Ramen Danbo's (@ramendanbo_usa ) new Brooklyn location. \nThis ramen is soooo good, taking the best parts of Ichiran or Ippudo. \nYou can customize; 1) Noodle thickness 2) Noodle firmness 3) Broth thickness 4) Broth richness (lard) and 5) how much Karadare (Umami spice). They even offer 1/2 or full order of Kaedama (extra noodles) of you run out before you finish your broth. \nIf you like Ramen, go! \nAlso, if you look at this photo upside down, it looks like an emoji. 😏\n\n<img src=\"uploads/2019/b59d1fa974.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/345b4354f2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🍜 Classic Chasu-Men: Fukuoka (Kyushu Hakata)-Style Tonkotsu Pork Bone Broth With Thin Noodles, Six Slices of Pork Chasu, Scallions a Ball of Karadare (Umami Spicy Sauce). At Ramen Danbo's (@ramendanbo_usa ) new Brooklyn location. \nThis ramen is soooo good, taking the best parts of Ichiran or Ippudo. \nYou can customize; 1) Noodle thickness 2) Noodle firmness 3) Broth thickness 4) Broth richness (lard) and 5) how much Karadare (Umami spice). They even offer 1/2 or full order of Kaedama (extra noodles) of you run out before you finish your broth. \nIf you like Ramen, go! \nAlso, if you look at this photo upside down, it looks like an emoji. 😏\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/b59d1fa974.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/345b4354f2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-01T13:57:58-04:00",
 				"url": "https://micro.ericalba.com/2019/01/01/classic-chasumen-fukuoka.html",
 				"tags": ["Photos","Ramen"]
@@ -441,7 +473,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/31/225452.html",
 				
 				"content_html": "<p>#2018bestnine\n7,454 Likes to 80 posts in 2018.\nBig difference from 17,561 Likes to 255 posts in #2017bestnine most likely due to me trying to break the Stories feature in IG 😬 (Will try and balance more posts in normal feed). Also, 2018 was a weird year for me. Hope it will be a more fun 2019.\nHave a Happy and Prosperous New Year y&rsquo;all! See ya in 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#2018bestnine \n7,454 Likes to 80 posts in 2018. \nBig difference from 17,561 Likes to 255 posts in #2017bestnine most likely due to me trying to break the Stories feature in IG 😬 (Will try and balance more posts in normal feed). Also, 2018 was a weird year for me. Hope it will be a more fun 2019. \nHave a Happy and Prosperous New Year y'all! See ya in 2019.\n\n<img src=\"uploads/2019/0cf9b8f19b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "#2018bestnine \n7,454 Likes to 80 posts in 2018. \nBig difference from 17,561 Likes to 255 posts in #2017bestnine most likely due to me trying to break the Stories feature in IG 😬 (Will try and balance more posts in normal feed). Also, 2018 was a weird year for me. Hope it will be a more fun 2019. \nHave a Happy and Prosperous New Year y'all! See ya in 2019.\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/0cf9b8f19b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-31T22:54:52-04:00",
 				"url": "https://micro.ericalba.com/2018/12/31/225452.html",
 				"tags": ["Photos"]
@@ -450,7 +482,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/31/bestnine-likes-to.html",
 				
 				"content_html": "<p>#2018bestnine\n7,454 Likes to 80 posts in 2018.\nBig difference from 17,561 Likes to 255 posts in #2017bestnine most likely due to me trying to break the Stories feature in IG 😬 (Will try and balance more posts in normal feed). Also, 2018 was a weird year for me. Hope it will be a more fun 2019.\nHave a Happy and Prosperous New Year y&rsquo;all! See ya in 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#2018bestnine \n7,454 Likes to 80 posts in 2018. \nBig difference from 17,561 Likes to 255 posts in #2017bestnine most likely due to me trying to break the Stories feature in IG 😬 (Will try and balance more posts in normal feed). Also, 2018 was a weird year for me. Hope it will be a more fun 2019. \nHave a Happy and Prosperous New Year y'all! See ya in 2019.\n\n<img src=\"uploads/2019/b8d8f5a89f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "#2018bestnine \n7,454 Likes to 80 posts in 2018. \nBig difference from 17,561 Likes to 255 posts in #2017bestnine most likely due to me trying to break the Stories feature in IG 😬 (Will try and balance more posts in normal feed). Also, 2018 was a weird year for me. Hope it will be a more fun 2019. \nHave a Happy and Prosperous New Year y'all! See ya in 2019.\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/b8d8f5a89f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-31T22:54:52-04:00",
 				"url": "https://micro.ericalba.com/2018/12/31/bestnine-likes-to.html",
 				"tags": ["Photos"]
@@ -459,7 +491,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/19/hakata-tonkotsu-deluxe.html",
 				
 				"content_html": "<p>🍜 Hakata Tonkotsu Deluxe: Hakata Style Ramen with Rich Pork Broth served with Buta Kakuni (Braised Thick Pork Belly), Chashu Pork (Simmered Pork Belly), Seasoned Soft Boiled Egg, Green Onions, Kikurage Mushrooms, Bean Sprouts, Sweet Corn, and Nori Seaweed.</p>\n<p>plus Marufuku Bites appetizer: Japanese Steamed Buns Filled with Homemade Pork Chasu.</p>\n<p>Both great and a must try in SF/Oakland</p>\n<p>at #MarufukuRamen</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🍜 Hakata Tonkotsu Deluxe: Hakata Style Ramen with Rich Pork Broth served with Buta Kakuni (Braised Thick Pork Belly), Chashu Pork (Simmered Pork Belly), Seasoned Soft Boiled Egg, Green Onions, Kikurage Mushrooms, Bean Sprouts, Sweet Corn, and Nori Seaweed.\n\nplus Marufuku Bites appetizer: Japanese Steamed Buns Filled with Homemade Pork Chasu.\n\nBoth great and a must try in SF/Oakland\n\nat #MarufukuRamen\n\n<img src=\"uploads/2019/1b0f7899df.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/e67e003c36.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🍜 Hakata Tonkotsu Deluxe: Hakata Style Ramen with Rich Pork Broth served with Buta Kakuni (Braised Thick Pork Belly), Chashu Pork (Simmered Pork Belly), Seasoned Soft Boiled Egg, Green Onions, Kikurage Mushrooms, Bean Sprouts, Sweet Corn, and Nori Seaweed.\n\nplus Marufuku Bites appetizer: Japanese Steamed Buns Filled with Homemade Pork Chasu.\n\nBoth great and a must try in SF/Oakland\n\nat #MarufukuRamen\n\n<img src=\"https://ericalba.micro.blog/uploads/2019/1b0f7899df.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericalba.micro.blog/uploads/2019/e67e003c36.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-19T08:41:11-04:00",
 				"url": "https://micro.ericalba.com/2018/12/19/hakata-tonkotsu-deluxe.html",
 				"tags": ["Photos","Ramen"]
@@ -468,7 +500,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/14/spicy-tori-paitan.html",
 				
 				"content_html": "<p>Spicy Tori Paitan: Rich and Creamy Chicken Soup, Pork Chashu, Menma, Spicy Jalapeño Miso, Cabbage, Bean Sprouts, Burdock, Green Onion, Nuts. + Enoki Mushroom Chips appetizer .  Both fantastic at @menya_shono / Mensho Tokyo SF. 🖤🍜</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spicy Tori Paitan: Rich and Creamy Chicken Soup, Pork Chashu, Menma, Spicy Jalapeño Miso, Cabbage, Bean Sprouts, Burdock, Green Onion, Nuts. + Enoki Mushroom Chips appetizer .  Both fantastic at @menya_shono / Mensho Tokyo SF. 🖤🍜\n\n<img src=\"uploads/2019/4c2ac60d88.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/25ba91df9a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Spicy Tori Paitan: Rich and Creamy Chicken Soup, Pork Chashu, Menma, Spicy Jalapeño Miso, Cabbage, Bean Sprouts, Burdock, Green Onion, Nuts. + Enoki Mushroom Chips appetizer .  Both fantastic at @menya_shono / Mensho Tokyo SF. 🖤🍜\n\n<img src=\"http://ericalba.micro.blog/uploads/2019/4c2ac60d88.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2019/25ba91df9a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-14T17:59:26-04:00",
 				"url": "https://micro.ericalba.com/2018/12/14/spicy-tori-paitan.html",
 				"tags": ["Photos"]
@@ -477,7 +509,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/14/good-day-at.html",
 				
 				"content_html": "<p>Good day at @SFMOMA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Good day at @SFMOMA\n\n<img src=\"uploads/2018/8e66fdee7f.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2018/6a6e5aa78f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/947f591742.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/1fad6bdcd4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/d53ee3fbf2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/e0df2d656d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/0c8e705669.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/91cf62a357.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/056bc2868f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/7172b66c99.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Good day at @SFMOMA\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/8e66fdee7f.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/6a6e5aa78f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/947f591742.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/1fad6bdcd4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/d53ee3fbf2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/e0df2d656d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/0c8e705669.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/91cf62a357.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/056bc2868f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/7172b66c99.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-14T16:16:19-04:00",
 				"url": "https://micro.ericalba.com/2018/12/14/good-day-at.html",
 				"tags": ["Photos"]
@@ -486,7 +518,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/12/continual-light-cylinderjulio.html",
 				
 				"content_html": "<p>Continual Light Cylinder\nJulio Le Parc- 1962/2018\nWood, plexiglass mirror, projectors, motor.\nswipe for more pics/vids</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Continual Light Cylinder\nJulio Le Parc- 1962/2018\nWood, plexiglass mirror, projectors, motor.\nswipe for more pics/vids\n\n<img src=\"uploads/2018/623e384e97.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/c5e54d0557.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2018/99dbc83faf.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2018/afba2aea9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/cf1651123b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Continual Light Cylinder\nJulio Le Parc- 1962/2018\nWood, plexiglass mirror, projectors, motor.\nswipe for more pics/vids\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/623e384e97.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/c5e54d0557.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/99dbc83faf.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/afba2aea9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://ericalba.micro.blog/uploads/2018/cf1651123b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-12T21:11:14-04:00",
 				"url": "https://micro.ericalba.com/2018/12/12/continual-light-cylinderjulio.html",
 				"tags": ["Photos"]
@@ -495,7 +527,7 @@
 				"id": "http://ericalba.micro.blog/2018/12/02/ballomatic-by-futurewifellc.html",
 				
 				"content_html": "<p>Ball-o-matic by @futurewifellc is Balls O Magic.\n@futurespace.nyc party 🎉 was 🔥</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Ball-o-matic by @futurewifellc is Balls O Magic. \n@futurespace.nyc party 🎉 was 🔥\n\n<img src=\"uploads/2018/5a6f6fa23a.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/8bcce97dad.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/8affc28882.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Ball-o-matic by @futurewifellc is Balls O Magic. \n@futurespace.nyc party 🎉 was 🔥\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/5a6f6fa23a.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/8bcce97dad.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/8affc28882.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-12-02T12:56:03-04:00",
 				"url": "https://micro.ericalba.com/2018/12/02/ballomatic-by-futurewifellc.html",
 				"tags": ["Photos"]
@@ -504,7 +536,7 @@
 				"id": "http://ericalba.micro.blog/2018/11/06/vote-today-if.html",
 				
 				"content_html": "<p>✅ Vote today</p>\n<p>If you can vote, then do it.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "✅ Vote today\n\nIf you can vote, then do it.\n\n<img src=\"uploads/2018/9a2222bf0f.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/64590867d5.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/aa88694bcc.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/45a0426508.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "✅ Vote today\n\nIf you can vote, then do it.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/9a2222bf0f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/64590867d5.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/aa88694bcc.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/45a0426508.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-06T08:12:19-04:00",
 				"url": "https://micro.ericalba.com/2018/11/06/vote-today-if.html",
 				"tags": ["Photos"]
@@ -513,7 +545,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/31/sardis-this-is.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Sardi’s.<!-- raw HTML omitted --><!-- raw HTML omitted -->this is a swarm test from Sunlit. <!-- raw HTML omitted -->NO TITLE</p>\n",
-				"content_text": "<a href=\"http://ericalba.micro.blog/uploads/2018/2425663bfa.jpg\"><img src=\"uploads/2018/2425663bfa.jpg\" width=\"0\" height=\"0\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSardi’s.<br /><br />this is a swarm test from Sunlit. <br />NO TITLE\n",
+				"content_text": "<a href=\"http://ericalba.micro.blog/uploads/2018/2425663bfa.jpg\"><img src=\"http://ericalba.micro.blog/uploads/2018/2425663bfa.jpg\" width=\"0\" height=\"0\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSardi’s.<br /><br />this is a swarm test from Sunlit. <br />NO TITLE\n",
 				"date_published": "2018-10-31T18:49:15-04:00",
 				"url": "https://micro.ericalba.com/2018/10/31/sardis-this-is.html",
 				"tags": ["Photos"]
@@ -538,7 +570,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/24/the-new-bruce.html",
 				
 				"content_html": "<p>The new Bruce Nauman show at @themuseumofmodernart NY is 🙌 (Sound On for the room with the square pieces)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The new Bruce Nauman show at @themuseumofmodernart NY is 🙌 (Sound On for the room with the square pieces)\n\n<img src=\"uploads/2018/3535129e54.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/553a6f4170.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/495353819c.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/7b28a2f645.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/6d78de4c38.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/85d0ee8059.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "The new Bruce Nauman show at @themuseumofmodernart NY is 🙌 (Sound On for the room with the square pieces)\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/3535129e54.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/553a6f4170.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/495353819c.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/7b28a2f645.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/6d78de4c38.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/85d0ee8059.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-10-24T19:36:55-04:00",
 				"url": "https://micro.ericalba.com/2018/10/24/the-new-bruce.html",
 				"tags": ["Photos"]
@@ -547,7 +579,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/21/jenny-holzer-red.html",
 				
 				"content_html": "<p>Jenny Holzer “Red Yellow Looming”</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Jenny Holzer “Red Yellow Looming”\n\n<img src=\"uploads/2018/b7928af360.jpg\" width=\"480\" height=\"600\" /><img src=\"uploads/2018/6f58edfd93.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "Jenny Holzer “Red Yellow Looming”\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/b7928af360.jpg\" width=\"480\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/6f58edfd93.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-10-21T20:13:33-04:00",
 				"url": "https://micro.ericalba.com/2018/10/21/jenny-holzer-red.html",
 				"tags": ["Photos"]
@@ -556,7 +588,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/20/met-breuer-early.html",
 				
 				"content_html": "<p>Met Breuer early evening</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Met Breuer early evening\n\n<img src=\"uploads/2018/b7cab06cc9.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/586c625c12.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Met Breuer early evening\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/b7cab06cc9.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/586c625c12.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-10-20T20:30:36-04:00",
 				"url": "https://micro.ericalba.com/2018/10/20/met-breuer-early.html",
 				"tags": ["Photos"]
@@ -565,7 +597,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/20/afternoon-guggenheim.html",
 				
 				"content_html": "<p>Afternoon Guggenheim</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Afternoon Guggenheim\n\n<img src=\"uploads/2018/ccb39faa05.jpg\" /> \n",
+				"content_text": "Afternoon Guggenheim\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/ccb39faa05.jpg\" /> \n",
 				"date_published": "2018-10-20T16:17:54-04:00",
 				"url": "https://micro.ericalba.com/2018/10/20/afternoon-guggenheim.html",
 				"tags": ["Photos"]
@@ -574,7 +606,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/16/chicken-matzo-ramen.html",
 				
 				"content_html": "<p>🍜 Chicken Matzo Ramen: Served w/ House Chili Crisp, Tatsoi, Beech Mushroom. Yes, Matzo Ball on left, Chicken on right.\nDelicious lunch at @omakasa</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🍜 Chicken Matzo Ramen: Served w/ House Chili Crisp, Tatsoi, Beech Mushroom. Yes, Matzo Ball on left, Chicken on right. \nDelicious lunch at @omakasa\n\n<img src=\"uploads/2018/7ef1e71eab.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "🍜 Chicken Matzo Ramen: Served w/ House Chili Crisp, Tatsoi, Beech Mushroom. Yes, Matzo Ball on left, Chicken on right. \nDelicious lunch at @omakasa\n\n<img src=\"https://ericalba.micro.blog/uploads/2018/7ef1e71eab.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-10-16T20:53:52-04:00",
 				"url": "https://micro.ericalba.com/2018/10/16/chicken-matzo-ramen.html",
 				"tags": ["Photos","Ramen"]
@@ -583,7 +615,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/11/this-is-a.html",
 				
 				"content_html": "<p>181011 - this is a test from micro.blog web app. photo attached.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "181011 - this is a test from micro.blog web app. photo attached.\r\n\r\n\n\n<img src=\"uploads/2018/4b85e06fc8.jpg\" width=\"600\" height=\"600\" /> \n",
+				"content_text": "181011 - this is a test from micro.blog web app. photo attached.\r\n\r\n\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/4b85e06fc8.jpg\" width=\"600\" height=\"600\" /> \n",
 				"date_published": "2018-10-11T18:36:25-04:00",
 				"url": "https://micro.ericalba.com/2018/10/11/this-is-a.html",
 				"tags": ["Photos"]
@@ -592,7 +624,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/10/sakurajima-ramen-chicken.html",
 				
 				"content_html": "<p>🍜 Sakurajima Ramen: Chicken and Tonkotsu Base (Spicy Soup), Pork Chashu, Bean Sprout, and Scallion.\nThis was perfectly spicy 🌶</p>\n<p>at @Menyajirobrooklyn in downtown BK</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🍜 Sakurajima Ramen: Chicken and Tonkotsu Base (Spicy Soup), Pork Chashu, Bean Sprout, and Scallion. \nThis was perfectly spicy 🌶\n\nat @Menyajirobrooklyn in downtown BK \n\n<img src=\"uploads/2018/ba4bffa7b9.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "🍜 Sakurajima Ramen: Chicken and Tonkotsu Base (Spicy Soup), Pork Chashu, Bean Sprout, and Scallion. \nThis was perfectly spicy 🌶\n\nat @Menyajirobrooklyn in downtown BK \n\n<img src=\"https://ericalba.micro.blog/uploads/2018/ba4bffa7b9.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-10-10T20:12:49-04:00",
 				"url": "https://micro.ericalba.com/2018/10/10/sakurajima-ramen-chicken.html",
 				"tags": ["Photos","Ramen"]
@@ -601,7 +633,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/07/landing-studios-installation.html",
 				
 				"content_html": "<p>Landing Studio’s installation “16 Salt Tarps, Half Red Half White”. Rehearsals of “All but a dream”. a performance by dancer and choreographer Dylan Crossman and his company, Crossman Dans(c)e, taking place in Landing Studio’s site-specific installation.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Landing Studio’s installation “16 Salt Tarps, Half Red Half White”. Rehearsals of “All but a dream”. a performance by dancer and choreographer Dylan Crossman and his company, Crossman Dans(c)e, taking place in Landing Studio’s site-specific installation. \n\n<img src=\"uploads/2018/8d6191d712.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/050f9e47fb.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Landing Studio’s installation “16 Salt Tarps, Half Red Half White”. Rehearsals of “All but a dream”. a performance by dancer and choreographer Dylan Crossman and his company, Crossman Dans(c)e, taking place in Landing Studio’s site-specific installation. \n\n<img src=\"http://ericalba.micro.blog/uploads/2018/8d6191d712.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/050f9e47fb.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-10-07T01:51:13-04:00",
 				"url": "https://micro.ericalba.com/2018/10/07/landing-studios-installation.html",
 				"tags": ["Photos"]
@@ -610,7 +642,7 @@
 				"id": "http://ericalba.micro.blog/2018/10/04/tbt-vancouver-granville.html",
 				
 				"content_html": "<p>#TBT 1996 Vancouver, Granville Market. (front to back) @zahedamanullah , myself, Youssef Delara, @deependdining and the top of @davidtakemura\nalso yes #vfx #cgi nerds, i’m wearing a Pacific Data Images (PDI) T-shirt 🤓</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#TBT 1996 Vancouver, Granville Market. (front to back) @zahedamanullah , myself, Youssef Delara, @deependdining and the top of @davidtakemura \nalso yes #vfx #cgi nerds, i’m wearing a Pacific Data Images (PDI) T-shirt 🤓 \n\n<img src=\"uploads/2018/0e929e509b.jpg\" width=\"600\" height=\"426\" />\n",
+				"content_text": "#TBT 1996 Vancouver, Granville Market. (front to back) @zahedamanullah , myself, Youssef Delara, @deependdining and the top of @davidtakemura \nalso yes #vfx #cgi nerds, i’m wearing a Pacific Data Images (PDI) T-shirt 🤓 \n\n<img src=\"http://ericalba.micro.blog/uploads/2018/0e929e509b.jpg\" width=\"600\" height=\"426\" />\n",
 				"date_published": "2018-10-04T11:00:03-04:00",
 				"url": "https://micro.ericalba.com/2018/10/04/tbt-vancouver-granville.html",
 				"tags": ["Photos"]
@@ -619,7 +651,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/30/thats-a-wrap.html",
 				
 				"content_html": "<p>That’s a wrap on a challenging but great shoot. Thanks Ft Lauderdale for the weather, the hard working crew &amp; your hospitality. Until next time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That’s a wrap on a challenging but great shoot. Thanks Ft Lauderdale for the weather, the hard working crew & your hospitality. Until next time. \n\n<img src=\"uploads/2018/bdc6e402b2.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "That’s a wrap on a challenging but great shoot. Thanks Ft Lauderdale for the weather, the hard working crew & your hospitality. Until next time. \n\n<img src=\"http://ericalba.micro.blog/uploads/2018/bdc6e402b2.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-30T11:48:42-04:00",
 				"url": "https://micro.ericalba.com/2018/09/30/thats-a-wrap.html",
 				"tags": ["Photos"]
@@ -628,7 +660,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/26/atlantic-morning.html",
 				
 				"content_html": "<p>Atlantic morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Atlantic morning \n\n<img src=\"uploads/2018/8277a37ef7.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Atlantic morning \n\n<img src=\"http://ericalba.micro.blog/uploads/2018/8277a37ef7.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-26T08:36:39-04:00",
 				"url": "https://micro.ericalba.com/2018/09/26/atlantic-morning.html",
 				"tags": ["Photos"]
@@ -637,7 +669,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/23/thanks-toronto-for.html",
 				
 				"content_html": "<p>thanks Toronto for perfect weather, great food and art. A pleasant weekend with family and friends. Until next time.</p>\n<p>Shot with <a href=\"https://micro.blog/moment\">@moment</a> wide lens on iPhoneX battery case.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "thanks Toronto for perfect weather, great food and art. A pleasant weekend with family and friends. Until next time.\n\nShot with [@moment](https://micro.blog/moment) wide lens on iPhoneX battery case. \n\n<img src=\"uploads/2018/0f554eb6d1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "thanks Toronto for perfect weather, great food and art. A pleasant weekend with family and friends. Until next time.\n\nShot with [@moment](https://micro.blog/moment) wide lens on iPhoneX battery case. \n\n<img src=\"http://ericalba.micro.blog/uploads/2018/0f554eb6d1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-23T09:30:34-04:00",
 				"url": "https://micro.ericalba.com/2018/09/23/thanks-toronto-for.html",
 				"tags": ["Photos"]
@@ -646,7 +678,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/22/start-mirrored-street.html",
 				
 				"content_html": "<p>START (Mirrored Street Sign)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "START (Mirrored Street Sign)\n\n<img src=\"uploads/2018/15c670d2ed.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "START (Mirrored Street Sign)\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/15c670d2ed.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-22T13:21:06-04:00",
 				"url": "https://micro.ericalba.com/2018/09/22/start-mirrored-street.html",
 				"tags": ["Photos"]
@@ -655,7 +687,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/19/from-archives-walt.html",
 				
 				"content_html": "<p>from archives (2004), Walt Disney Concert Hall #Moody . swipe to end to see a bad mirror/selfie.\n@WaltDisneyConcertHall</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "from archives (2004), Walt Disney Concert Hall #Moody . swipe to end to see a bad mirror/selfie. \n@WaltDisneyConcertHall\n\n<img src=\"uploads/2018/c6ca918ffe.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/4a5a6614ab.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/062f9063d9.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/39a3ce33bf.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/f48006c39b.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/7cc3329576.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/3c6a54408a.jpg\" width=\"600\" height=\"400\" /><img src=\"uploads/2018/fcefdfb272.jpg\" width=\"600\" height=\"402\" /><img src=\"uploads/2018/dd294c0054.jpg\" width=\"600\" height=\"400\" />\n",
+				"content_text": "from archives (2004), Walt Disney Concert Hall #Moody . swipe to end to see a bad mirror/selfie. \n@WaltDisneyConcertHall\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/c6ca918ffe.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/4a5a6614ab.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/062f9063d9.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/39a3ce33bf.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/f48006c39b.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/7cc3329576.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/3c6a54408a.jpg\" width=\"600\" height=\"400\" /><img src=\"http://ericalba.micro.blog/uploads/2018/fcefdfb272.jpg\" width=\"600\" height=\"402\" /><img src=\"http://ericalba.micro.blog/uploads/2018/dd294c0054.jpg\" width=\"600\" height=\"400\" />\n",
 				"date_published": "2018-09-19T09:31:04-04:00",
 				"url": "https://micro.ericalba.com/2018/09/19/from-archives-walt.html",
 				"tags": ["Photos"]
@@ -664,7 +696,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/17/daniel-arsham.html",
 				
 				"content_html": "<p>Daniel Arsham - 3018</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Daniel Arsham - 3018\n\n<img src=\"uploads/2018/7897e4a5c2.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/72764fe8d4.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/23c8295144.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/264752a0a3.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/fdedccdff5.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/bca99b0016.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/60f8234cb1.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/6d70ef966b.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/1c2d19b9a4.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/c851114b8e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Daniel Arsham - 3018\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/7897e4a5c2.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/72764fe8d4.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/23c8295144.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/264752a0a3.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/fdedccdff5.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/bca99b0016.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/60f8234cb1.jpg\" width=\"600\" height=\"599\" /><img src=\"http://ericalba.micro.blog/uploads/2018/6d70ef966b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/1c2d19b9a4.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/c851114b8e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-17T07:07:30-04:00",
 				"url": "https://micro.ericalba.com/2018/09/17/daniel-arsham.html",
 				"tags": ["Photos"]
@@ -673,7 +705,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/11/a-moment-of.html",
 				
 				"content_html": "<p>a moment of silence please.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "a moment of silence please.\n\n<img src=\"uploads/2018/7e1b6a75b6.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "a moment of silence please.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/7e1b6a75b6.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-09-11T17:15:10-04:00",
 				"url": "https://micro.ericalba.com/2018/09/11/a-moment-of.html",
 				"tags": ["Photos"]
@@ -682,7 +714,7 @@
 				"id": "http://ericalba.micro.blog/2018/09/07/dreamshipdestiny-by-momentfactory.html",
 				
 				"content_html": "<p>#DreamShipDestiNY by @momentfactory at Cipriani (swipe 👉 for some videos)\n#projectionmapping\nupdate: for those who asked. this is in previews. but you can buy tickets from now through January.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#DreamShipDestiNY by @momentfactory at Cipriani (swipe 👉 for some videos)\n#projectionmapping\nupdate: for those who asked. this is in previews. but you can buy tickets from now through January.\n\n<img src=\"uploads/2018/29cb3d6fea.jpg\" width=\"600\" height=\"449\" /><img src=\"uploads/2018/84d9444d87.jpg\" width=\"600\" height=\"449\" /><img src=\"uploads/2018/79ac22d6d4.jpg\" width=\"600\" height=\"449\" /><img src=\"uploads/2018/36039a4878.jpg\" width=\"600\" height=\"449\" /><img src=\"uploads/2018/896ca7286a.jpg\" width=\"600\" height=\"449\" /><img src=\"uploads/2018/96ae150e8c.jpg\" width=\"600\" height=\"452\" /><img src=\"uploads/2018/9efd391f8d.jpg\" width=\"600\" height=\"452\" /><img src=\"uploads/2018/70e72b2a8b.jpg\" width=\"600\" height=\"452\" /><img src=\"uploads/2018/c5b1ce8b1c.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "#DreamShipDestiNY by @momentfactory at Cipriani (swipe 👉 for some videos)\n#projectionmapping\nupdate: for those who asked. this is in previews. but you can buy tickets from now through January.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/29cb3d6fea.jpg\" width=\"600\" height=\"449\" /><img src=\"http://ericalba.micro.blog/uploads/2018/84d9444d87.jpg\" width=\"600\" height=\"449\" /><img src=\"http://ericalba.micro.blog/uploads/2018/79ac22d6d4.jpg\" width=\"600\" height=\"449\" /><img src=\"http://ericalba.micro.blog/uploads/2018/36039a4878.jpg\" width=\"600\" height=\"449\" /><img src=\"http://ericalba.micro.blog/uploads/2018/896ca7286a.jpg\" width=\"600\" height=\"449\" /><img src=\"http://ericalba.micro.blog/uploads/2018/96ae150e8c.jpg\" width=\"600\" height=\"452\" /><img src=\"http://ericalba.micro.blog/uploads/2018/9efd391f8d.jpg\" width=\"600\" height=\"452\" /><img src=\"http://ericalba.micro.blog/uploads/2018/70e72b2a8b.jpg\" width=\"600\" height=\"452\" /><img src=\"http://ericalba.micro.blog/uploads/2018/c5b1ce8b1c.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2018-09-07T23:39:35-04:00",
 				"url": "https://micro.ericalba.com/2018/09/07/dreamshipdestiny-by-momentfactory.html",
 				"tags": ["Photos"]
@@ -691,7 +723,7 @@
 				"id": "http://ericalba.micro.blog/2018/08/31/094442.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/8e9bc7c3b3.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/8e9bc7c3b3.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-31T09:44:42-04:00",
 				"url": "https://micro.ericalba.com/2018/08/31/094442.html",
 				"tags": ["Photos"]
@@ -700,7 +732,7 @@
 				"id": "http://ericalba.micro.blog/2018/08/24/oh-hey-magicleap.html",
 				
 				"content_html": "<p>Oh hey, @magicleap tip: use <a href=\"https://micro.blog/lego\">@lego</a> as a cradle. 🤓 #OldSchool #magicleap #organization #mixedreality #NoSelfie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh hey, @magicleap tip: use [@lego](https://micro.blog/lego) as a cradle. 🤓 #OldSchool #magicleap #organization #mixedreality #NoSelfie\n\n<img src=\"uploads/2018/9a907576d0.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Oh hey, @magicleap tip: use [@lego](https://micro.blog/lego) as a cradle. 🤓 #OldSchool #magicleap #organization #mixedreality #NoSelfie\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/9a907576d0.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-24T15:36:22-04:00",
 				"url": "https://micro.ericalba.com/2018/08/24/oh-hey-magicleap.html",
 				"tags": ["Photos"]
@@ -709,7 +741,7 @@
 				"id": "http://ericalba.micro.blog/2018/08/11/rustnoun-ruhst-a.html",
 				
 				"content_html": "<p>rust\nnoun | [ruhst]\n1 a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture. * a state of deterioration or disrepair resulting from neglect or lack of use.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "rust\nnoun | [ruhst]\n1 a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture. * a state of deterioration or disrepair resulting from neglect or lack of use.\n\n<img src=\"uploads/2018/c252549125.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "rust\nnoun | [ruhst]\n1 a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture. * a state of deterioration or disrepair resulting from neglect or lack of use.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/c252549125.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-11T10:47:14-04:00",
 				"url": "https://micro.ericalba.com/2018/08/11/rustnoun-ruhst-a.html",
 				"tags": ["Photos"]
@@ -718,7 +750,7 @@
 				"id": "http://ericalba.micro.blog/2018/07/15/spirit-of-the.html",
 				
 				"content_html": "<p>“SPIRIT OF THE CITY” Installation of 16x revolving columns by @unitedvisualartists at @ado courtyard for <a href=\"https://micro.blog/mini\">@mini</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“SPIRIT OF THE CITY” Installation of 16x revolving columns by @unitedvisualartists at @ado courtyard for [@mini](https://micro.blog/mini)\n\n<img src=\"uploads/2018/1590897cb7.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "“SPIRIT OF THE CITY” Installation of 16x revolving columns by @unitedvisualartists at @ado courtyard for [@mini](https://micro.blog/mini)\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/1590897cb7.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-07-15T11:40:36-04:00",
 				"url": "https://micro.ericalba.com/2018/07/15/spirit-of-the.html",
 				"tags": ["Photos"]
@@ -727,7 +759,7 @@
 				"id": "http://ericalba.micro.blog/2018/07/15/quiet-breakfast-thankfully.html",
 				
 				"content_html": "<p>quiet breakfast, thankfully.\nFried potatoes w/black garlic, herbs with fried egg and applewood sausage patty.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "quiet breakfast, thankfully. \nFried potatoes w/black garlic, herbs with fried egg and applewood sausage patty.\n\n<img src=\"uploads/2018/547e28b9a9.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "quiet breakfast, thankfully. \nFried potatoes w/black garlic, herbs with fried egg and applewood sausage patty.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/547e28b9a9.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-15T08:54:44-04:00",
 				"url": "https://micro.ericalba.com/2018/07/15/quiet-breakfast-thankfully.html",
 				"tags": ["Photos"]
@@ -736,7 +768,7 @@
 				"id": "http://ericalba.micro.blog/2018/07/12/tbt-when-i.html",
 				
 				"content_html": "<p>#TBT When I was told “Sometimes your job is to just wear the wig, sit there and look pretty.”.\nNo regrets the morning after (technically, this morning 😬).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#TBT When I was told “Sometimes your job is to just wear the wig, sit there and look pretty.”.\nNo regrets the morning after (technically, this morning 😬).\n\n<img src=\"uploads/2018/42c02e67e8.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#TBT When I was told “Sometimes your job is to just wear the wig, sit there and look pretty.”.\nNo regrets the morning after (technically, this morning 😬).\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/42c02e67e8.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-12T06:27:47-04:00",
 				"url": "https://micro.ericalba.com/2018/07/12/tbt-when-i.html",
 				"tags": ["Photos"]
@@ -745,7 +777,7 @@
 				"id": "http://ericalba.micro.blog/2018/07/03/prototyping-producer-confession.html",
 				
 				"content_html": "<p>#Prototyping\nProducer confession: At some point, I will most likely will refer to everyone working on or visiting a project in terms of body count. #DarkMath</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#Prototyping\nProducer confession: At some point, I will most likely will refer to everyone working on or visiting a project in terms of body count. #DarkMath\n\n<img src=\"uploads/2018/3fd8582119.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#Prototyping\nProducer confession: At some point, I will most likely will refer to everyone working on or visiting a project in terms of body count. #DarkMath\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/3fd8582119.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-03T16:39:02-04:00",
 				"url": "https://micro.ericalba.com/2018/07/03/prototyping-producer-confession.html",
 				"tags": ["Photos"]
@@ -754,7 +786,7 @@
 				"id": "http://ericalba.micro.blog/2018/06/17/then-now-happy.html",
 				
 				"content_html": "<p>Then &amp; Now. Happy Father’s Day and Happy Birthday Dad! I love you.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Then & Now. Happy Father’s Day and Happy Birthday Dad! I love you.\n\n<img src=\"uploads/2018/cd8027b5dc.jpg\" width=\"600\" height=\"336\" />\n",
+				"content_text": "Then & Now. Happy Father’s Day and Happy Birthday Dad! I love you.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/cd8027b5dc.jpg\" width=\"600\" height=\"336\" />\n",
 				"date_published": "2018-06-17T09:04:00-04:00",
 				"url": "https://micro.ericalba.com/2018/06/17/then-now-happy.html",
 				"tags": ["Photos"]
@@ -763,7 +795,7 @@
 				"id": "http://ericalba.micro.blog/2018/06/09/musical-chairs-my.html",
 				
 				"content_html": "<p>“Musical Chairs 3.0”\nmy latest #interactive installation, is coming soon to an art gallery near you. 😉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Musical Chairs 3.0”\nmy latest #interactive installation, is coming soon to an art gallery near you. 😉\n\n<img src=\"uploads/2018/f7bcae60e5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "“Musical Chairs 3.0”\nmy latest #interactive installation, is coming soon to an art gallery near you. 😉\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/f7bcae60e5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-09T17:04:11-04:00",
 				"url": "https://micro.ericalba.com/2018/06/09/musical-chairs-my.html",
 				"tags": ["Photos"]
@@ -772,7 +804,7 @@
 				"id": "http://ericalba.micro.blog/2018/06/08/msp-jfkwaiting-looking.html",
 				
 				"content_html": "<p>MSP ✈️ JFK\nwaiting, looking up</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "MSP ✈️ JFK\nwaiting, looking up\n\n<img src=\"uploads/2018/2fe9c6f729.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "MSP ✈️ JFK\nwaiting, looking up\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/2fe9c6f729.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-08T16:49:08-04:00",
 				"url": "https://micro.ericalba.com/2018/06/08/msp-jfkwaiting-looking.html",
 				"tags": ["Photos"]
@@ -781,7 +813,7 @@
 				"id": "http://ericalba.micro.blog/2018/06/05/234657.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/96986dc499.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/96986dc499.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-06-05T23:46:57-04:00",
 				"url": "https://micro.ericalba.com/2018/06/05/234657.html",
 				"tags": ["Photos"]
@@ -790,7 +822,7 @@
 				"id": "http://ericalba.micro.blog/2018/06/05/234655.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/9675679fd3.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/9675679fd3.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-06-05T23:46:55-04:00",
 				"url": "https://micro.ericalba.com/2018/06/05/234655.html",
 				"tags": ["Photos"]
@@ -799,7 +831,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174656.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/2e69c26416.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/2e69c26416.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:56-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174656.html",
 				"tags": ["Photos"]
@@ -808,7 +840,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174651.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/f32f249d8b.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/f32f249d8b.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:51-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174651.html",
 				"tags": ["Photos"]
@@ -817,7 +849,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174649.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/be8764436c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/be8764436c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:49-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174649.html",
 				"tags": ["Photos"]
@@ -826,7 +858,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174646.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/3ca51aeb99.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/3ca51aeb99.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:46-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174646.html",
 				"tags": ["Photos"]
@@ -835,7 +867,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174644.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/ee8c4fa089.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/ee8c4fa089.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:44-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174644.html",
 				"tags": ["Photos"]
@@ -844,7 +876,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174643.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/5c74591eaa.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/5c74591eaa.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:43-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174643.html",
 				"tags": ["Photos"]
@@ -853,7 +885,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174637.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/f42be4ae9e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/f42be4ae9e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:37-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174637.html",
 				"tags": ["Photos"]
@@ -862,7 +894,7 @@
 				"id": "http://ericalba.micro.blog/2018/05/19/174627.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2018/c9f0ab988e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"http://ericalba.micro.blog/uploads/2018/c9f0ab988e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-19T17:46:27-04:00",
 				"url": "https://micro.ericalba.com/2018/05/19/174627.html",
 				"tags": ["Photos"]
@@ -871,7 +903,7 @@
 				"id": "http://ericalba.micro.blog/2018/04/02/kumamoto-spicy-sio.html",
 				
 				"content_html": "<p>🍜 Kumamoto Spicy Sio Ramen: Pork Bone Broth &amp; Spicy Sauce Served W/Noodles, Berkshire Pork Belly Chashu, Bamboo Shoots, Tree Mushroom, Bean Sprouts, Seaweed &amp; Egg. So Damn Good.</p>\n<p>Swipe for the Shrimp Gyoza, which Is my fave and a must try if you never have.\nAt Ramen Andante in WBurg\n❤️ 🍜 😋</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🍜 Kumamoto Spicy Sio Ramen: Pork Bone Broth & Spicy Sauce Served W/Noodles, Berkshire Pork Belly Chashu, Bamboo Shoots, Tree Mushroom, Bean Sprouts, Seaweed & Egg. So Damn Good.\n\nSwipe for the Shrimp Gyoza, which Is my fave and a must try if you never have. \nAt Ramen Andante in WBurg\n❤️ 🍜 😋\n\n<img src=\"uploads/2018/54a5a0e219.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/7440de84a9.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "🍜 Kumamoto Spicy Sio Ramen: Pork Bone Broth & Spicy Sauce Served W/Noodles, Berkshire Pork Belly Chashu, Bamboo Shoots, Tree Mushroom, Bean Sprouts, Seaweed & Egg. So Damn Good.\n\nSwipe for the Shrimp Gyoza, which Is my fave and a must try if you never have. \nAt Ramen Andante in WBurg\n❤️ 🍜 😋\n\n<img src=\"https://ericalba.micro.blog/uploads/2018/54a5a0e219.jpg\" width=\"600\" height=\"600\" /><img src=\"https://ericalba.micro.blog/uploads/2018/7440de84a9.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-02T20:27:00-04:00",
 				"url": "https://micro.ericalba.com/2018/04/02/kumamoto-spicy-sio.html",
 				"tags": ["Photos","Ramen"]
@@ -889,7 +921,7 @@
 				"id": "http://ericalba.micro.blog/2018/03/31/cocolabs-white-canvas.html",
 				
 				"content_html": "<p>Cocolab’s “White Canvas” at @blackbymatte 💥 meanwhile @josue_ibanez is making sure I don’t spill drinks all over the computers driving this thing. 😕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cocolab’s “White Canvas” at @blackbymatte 💥 meanwhile @josue_ibanez is making sure I don’t spill drinks all over the computers driving this thing. 😕\n\n<img src=\"uploads/2018/82136c61b8.jpg\" width=\"600\" height=\"337\" />\n",
+				"content_text": "Cocolab’s “White Canvas” at @blackbymatte 💥 meanwhile @josue_ibanez is making sure I don’t spill drinks all over the computers driving this thing. 😕\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/82136c61b8.jpg\" width=\"600\" height=\"337\" />\n",
 				"date_published": "2018-03-31T23:16:40-04:00",
 				"url": "https://micro.ericalba.com/2018/03/31/cocolabs-white-canvas.html",
 				"tags": ["Photos"]
@@ -898,7 +930,7 @@
 				"id": "http://ericalba.micro.blog/2018/03/31/my-friends-at.html",
 				
 				"content_html": "<p>My friends at CocoLab did a nice install at @blackbymatte</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My friends at CocoLab did a nice install at @blackbymatte\n\n<img src=\"uploads/2018/4e46f72efc.jpg\" width=\"600\" height=\"337\" /><img src=\"uploads/2018/a425fc27fe.jpg\" width=\"600\" height=\"337\" /><img src=\"uploads/2018/c87fc4417b.jpg\" width=\"600\" height=\"337\" />\n",
+				"content_text": "My friends at CocoLab did a nice install at @blackbymatte\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/4e46f72efc.jpg\" width=\"600\" height=\"337\" /><img src=\"http://ericalba.micro.blog/uploads/2018/a425fc27fe.jpg\" width=\"600\" height=\"337\" /><img src=\"http://ericalba.micro.blog/uploads/2018/c87fc4417b.jpg\" width=\"600\" height=\"337\" />\n",
 				"date_published": "2018-03-31T23:14:30-04:00",
 				"url": "https://micro.ericalba.com/2018/03/31/my-friends-at.html",
 				"tags": ["Photos"]
@@ -933,7 +965,7 @@
 				"id": "http://ericalba.micro.blog/2018/03/13/waiting-for-conference.html",
 				
 				"content_html": "<p>Waiting for conference rooms.</p>\n<p><!-- raw HTML omitted -->ericalba.micro.blog</p>\n",
-				"content_text": "Waiting for conference rooms.\n\n<img src=\"uploads/2018/9a172d9136.jpg\" width=\"480\" height=\"600\" />ericalba.micro.blog\n",
+				"content_text": "Waiting for conference rooms.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/9a172d9136.jpg\" width=\"480\" height=\"600\" />ericalba.micro.blog\n",
 				"date_published": "2018-03-13T18:49:35-04:00",
 				"url": "https://micro.ericalba.com/2018/03/13/waiting-for-conference.html",
 				"tags": ["Photos"]
@@ -942,7 +974,7 @@
 				"id": "http://ericalba.micro.blog/2018/03/01/not-tbt-but.html",
 				
 				"content_html": "<p>Not #TBT but feels like so many days from the past.\nThis pic: me on the 9th conf call of the day. And it’s not even lunch yet.\nHate to sound like the old guy but I miss the days when you were on set, you were “Working On Set”. Now I’m “Working FROM Set” and I’m getting bombarded with Slacks, texts, emails, WebEx Conf Calls, all while trying to do the very expensive shoot my team have so carefully prepared. “You kids get off my lawn with your Pokémon Selfie Go Snap AR Hashbrowns”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not #TBT but feels like so many days from the past. \nThis pic: me on the 9th conf call of the day. And it’s not even lunch yet. \nHate to sound like the old guy but I miss the days when you were on set, you were “Working On Set”. Now I’m “Working FROM Set” and I’m getting bombarded with Slacks, texts, emails, WebEx Conf Calls, all while trying to do the very expensive shoot my team have so carefully prepared. “You kids get off my lawn with your Pokémon Selfie Go Snap AR Hashbrowns”\n\n<img src=\"uploads/2018/96c3354a3e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Not #TBT but feels like so many days from the past. \nThis pic: me on the 9th conf call of the day. And it’s not even lunch yet. \nHate to sound like the old guy but I miss the days when you were on set, you were “Working On Set”. Now I’m “Working FROM Set” and I’m getting bombarded with Slacks, texts, emails, WebEx Conf Calls, all while trying to do the very expensive shoot my team have so carefully prepared. “You kids get off my lawn with your Pokémon Selfie Go Snap AR Hashbrowns”\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/96c3354a3e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-03-01T22:18:28-04:00",
 				"url": "https://micro.ericalba.com/2018/03/01/not-tbt-but.html",
 				"tags": ["Photos"]
@@ -951,7 +983,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/28/repost-tracyherold-blurry.html",
 				
 				"content_html": "<p>#Repost @tracyherold\n・・・\nBlurry Albas on a train.\nMy note: we have the same smirk, mine is just older.\n#Shakycam</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#Repost @tracyherold\n・・・\nBlurry Albas on a train. \nMy note: we have the same smirk, mine is just older. \n#Shakycam\n\n<img src=\"uploads/2018/0cd4645cf8.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "#Repost @tracyherold\n・・・\nBlurry Albas on a train. \nMy note: we have the same smirk, mine is just older. \n#Shakycam\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/0cd4645cf8.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2018-02-28T23:12:36-04:00",
 				"url": "https://micro.ericalba.com/2018/02/28/repost-tracyherold-blurry.html",
 				"tags": ["Photos"]
@@ -960,7 +992,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/25/teknopolis-show-at.html",
 				
 				"content_html": "<p>Teknopolis show at @bam_brooklyn</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Teknopolis show at @bam_brooklyn\n\n<img src=\"uploads/2018/c48c901c99.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/338d95a76b.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/3f8ca397c1.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/0ed757831f.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/e251243ed9.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Teknopolis show at @bam_brooklyn\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/c48c901c99.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/338d95a76b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/3f8ca397c1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/0ed757831f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/e251243ed9.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-02-25T00:08:43-04:00",
 				"url": "https://micro.ericalba.com/2018/02/25/teknopolis-show-at.html",
 				"tags": ["Photos"]
@@ -969,7 +1001,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/22/tbt-i-had.html",
 				
 				"content_html": "<p>#TBT I had no business handling bleeding edge technology in my youth. I do not recall this moment but @djlegoisintheremix has evidence. Cc @deependdining @libatique</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#TBT I had no business handling bleeding edge technology in my youth. I do not recall this moment but @djlegoisintheremix has evidence. Cc @deependdining @libatique\n\n<img src=\"uploads/2018/3e39afb157.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "#TBT I had no business handling bleeding edge technology in my youth. I do not recall this moment but @djlegoisintheremix has evidence. Cc @deependdining @libatique\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/3e39afb157.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-02-22T10:16:03-04:00",
 				"url": "https://micro.ericalba.com/2018/02/22/tbt-i-had.html",
 				"tags": ["Photos"]
@@ -978,7 +1010,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/18/no-title-testing.html",
 				
 				"content_html": "<p>NO TITLE</p>\n<p>testing: micro.blog posting with image.</p>\n<p><strong>bold</strong></p>\n<p><em>under</em></p>\n<p><a href=\"https://duckduckgo.com\">link</a></p>\n<p>here&rsquo;s an otter pic for the inconvenience.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "NO TITLE \n\ntesting: micro.blog posting with image. \n\n**bold**\n\n_under_\n\n[link](https://duckduckgo.com)\n\nhere's an otter pic for the inconvenience.\n\n<img src=\"uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" />\n",
+				"content_text": "NO TITLE \n\ntesting: micro.blog posting with image. \n\n**bold**\n\n_under_\n\n[link](https://duckduckgo.com)\n\nhere's an otter pic for the inconvenience.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" />\n",
 				"date_published": "2018-02-18T20:27:47-04:00",
 				"url": "https://micro.ericalba.com/2018/02/18/no-title-testing.html",
 				"tags": ["Photos"]
@@ -996,7 +1028,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/15/untitled.html",
 				
 				"content_html": "<p>Untitled</p>\n<p><!-- raw HTML omitted -->m</p>\n",
-				"content_text": "Untitled\n\n<img src=\"uploads/2018/ae28486d99.jpg\" width=\"600\" height=\"600\" />m\n",
+				"content_text": "Untitled\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/ae28486d99.jpg\" width=\"600\" height=\"600\" />m\n",
 				"date_published": "2018-02-15T01:20:03-04:00",
 				"url": "https://micro.ericalba.com/2018/02/15/untitled.html",
 				"tags": ["Photos"]
@@ -1005,7 +1037,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/14/feb-pmet-i.html",
 				
 				"content_html": "<p>Feb 13, 11:30pmET. I get home and Siri is keeping her distance. Cold as Ice. Her last comment is brutal. 😢 #FriendZone @jim_dalrymple @settern @reneritchie @efron <a href=\"https://micro.blog/gruber\">@gruber</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feb 13, 11:30pmET. I get home and Siri is keeping her distance. Cold as Ice. Her last comment is brutal. 😢 #FriendZone @jim_dalrymple @settern @reneritchie @efron [@gruber](https://micro.blog/gruber)\n\n<img src=\"uploads/2018/cff2726015.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Feb 13, 11:30pmET. I get home and Siri is keeping her distance. Cold as Ice. Her last comment is brutal. 😢 #FriendZone @jim_dalrymple @settern @reneritchie @efron [@gruber](https://micro.blog/gruber)\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/cff2726015.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-02-14T01:05:52-04:00",
 				"url": "https://micro.ericalba.com/2018/02/14/feb-pmet-i.html",
 				"tags": ["Photos"]
@@ -1014,7 +1046,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/12/another-test.html",
 				"title": "another test.",
 				"content_html": "<p>just deleted my old github pages repo\nstarted a new one ericalba.github.io\nadded new erialba/ericalba.gihub.io and personal access token</p>\n<p>there seems to be missing steps,</p>\n<p>do i do deploy a default jekyll install into this repo first? I&rsquo;m going to try it without first and see what happens.</p>\n<p>here we go.</p>\n<p>cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "just deleted my old github pages repo\nstarted a new one ericalba.github.io\nadded new erialba/ericalba.gihub.io and personal access token \n\nthere seems to be missing steps, \n\ndo i do deploy a default jekyll install into this repo first? I'm going to try it without first and see what happens.\n\nhere we go.\n\ncc [@manton](https://micro.blog/manton)\n\n<img src=\"uploads/2018/e5b7fe9f9c.jpg\" width=\"600\" height=\"400\" />\n",
+				"content_text": "just deleted my old github pages repo\nstarted a new one ericalba.github.io\nadded new erialba/ericalba.gihub.io and personal access token \n\nthere seems to be missing steps, \n\ndo i do deploy a default jekyll install into this repo first? I'm going to try it without first and see what happens.\n\nhere we go.\n\ncc [@manton](https://micro.blog/manton)\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/e5b7fe9f9c.jpg\" width=\"600\" height=\"400\" />\n",
 				"date_published": "2018-02-12T21:33:42-04:00",
 				"url": "https://micro.ericalba.com/2018/02/12/another-test.html",
 				"tags": ["Photos"]
@@ -1032,7 +1064,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/07/wednesday-feb-test.html",
 				
 				"content_html": "<p>wednesday feb 07 test . last otter didnt work to mirror to github.</p>\n<p>new token and username/username.github.io settings in micro.blog. let&rsquo;s see what happens. do i have to delete my current github pages (ericalba.github.io) and start a new ericalba/ericalba.github.io ? <a href=\"https://micro.blog/manton\">@manton</a></p>\n<p>here&rsquo;s an otter pic from the web, in the meantime.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "wednesday feb 07 test . last otter didnt work to mirror to github.\n\nnew token and username/username.github.io settings in micro.blog. let's see what happens. do i have to delete my current github pages (ericalba.github.io) and start a new ericalba/ericalba.github.io ? [@manton](https://micro.blog/manton)\n\nhere's an otter pic from the web, in the meantime.\n\n<img src=\"uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" />\n",
+				"content_text": "wednesday feb 07 test . last otter didnt work to mirror to github.\n\nnew token and username/username.github.io settings in micro.blog. let's see what happens. do i have to delete my current github pages (ericalba.github.io) and start a new ericalba/ericalba.github.io ? [@manton](https://micro.blog/manton)\n\nhere's an otter pic from the web, in the meantime.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" />\n",
 				"date_published": "2018-02-07T21:01:23-04:00",
 				"url": "https://micro.ericalba.com/2018/02/07/wednesday-feb-test.html",
 				"tags": ["Photos"]
@@ -1041,7 +1073,7 @@
 				"id": "http://ericalba.micro.blog/2018/02/04/saturday-afternoon-and.html",
 				
 				"content_html": "<p>Saturday afternoon and this kid’s walking heads down in a book instead of a phone. There is hope for humanity. 🤙📖❤️📚</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Saturday afternoon and this kid’s walking heads down in a book instead of a phone. There is hope for humanity. 🤙📖❤️📚\n\n<img src=\"uploads/2018/cf0b8151a9.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/cb13a93b23.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "Saturday afternoon and this kid’s walking heads down in a book instead of a phone. There is hope for humanity. 🤙📖❤️📚\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/cf0b8151a9.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/cb13a93b23.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-02-04T04:43:49-04:00",
 				"url": "https://micro.ericalba.com/2018/02/04/saturday-afternoon-and.html",
 				"tags": ["Photos"]
@@ -1050,7 +1082,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/31/impatient-pm-on.html",
 				
 				"content_html": "<p>#Impatient\n1:30pm on a weekday. I grab a cab outside Blue Ribbon Sushi by Colombia Circle. I open cab door and then this.\nI’m just trying to think of the scenario leading up to this beautiful package being torn apart and just left in the door pocket.\nWas it a #nooner thing? Was it all going down IN the cab?! Was it planned or did someone spontaneously get the green light to get their F on and they just said “damn, Yo Taxi! [Insert Address Here] BUT first, I need to stop at a bodega.”? I want to know. Pls submit your theories here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#Impatient\n1:30pm on a weekday. I grab a cab outside Blue Ribbon Sushi by Colombia Circle. I open cab door and then this. \nI’m just trying to think of the scenario leading up to this beautiful package being torn apart and just left in the door pocket. \nWas it a #nooner thing? Was it all going down IN the cab?! Was it planned or did someone spontaneously get the green light to get their F on and they just said “damn, Yo Taxi! [Insert Address Here] BUT first, I need to stop at a bodega.”? I want to know. Pls submit your theories here.\n\n<img src=\"uploads/2018/aa876f420a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#Impatient\n1:30pm on a weekday. I grab a cab outside Blue Ribbon Sushi by Colombia Circle. I open cab door and then this. \nI’m just trying to think of the scenario leading up to this beautiful package being torn apart and just left in the door pocket. \nWas it a #nooner thing? Was it all going down IN the cab?! Was it planned or did someone spontaneously get the green light to get their F on and they just said “damn, Yo Taxi! [Insert Address Here] BUT first, I need to stop at a bodega.”? I want to know. Pls submit your theories here.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/aa876f420a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-31T22:20:13-04:00",
 				"url": "https://micro.ericalba.com/2018/01/31/impatient-pm-on.html",
 				"tags": ["Photos"]
@@ -1059,7 +1091,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/27/jeff-koons-bluebird.html",
 				
 				"content_html": "<p>Jeff Koons: Bluebird Planter, 2010-2016\nMirror-polished stainless steel with transparent color coating and live flowering plants</p>\n<p>@DavidZwirner 25 Years Exhibition</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jeff Koons: Bluebird Planter, 2010-2016\nMirror-polished stainless steel with transparent color coating and live flowering plants\n\n@DavidZwirner 25 Years Exhibition\n\n<img src=\"uploads/2018/285f255cc5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Jeff Koons: Bluebird Planter, 2010-2016\nMirror-polished stainless steel with transparent color coating and live flowering plants\n\n@DavidZwirner 25 Years Exhibition\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/285f255cc5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-27T21:12:18-04:00",
 				"url": "https://micro.ericalba.com/2018/01/27/jeff-koons-bluebird.html",
 				"tags": ["Photos"]
@@ -1068,7 +1100,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/27/judd-serra-flavin.html",
 				
 				"content_html": "<p>Judd, Serra, Flavin.</p>\n<p>Donald Judd: Untitled, 1964\nLight cadmium red enamel on galvanized iron</p>\n<p>Dan Flavin: the diagonal of May 25, 1963 (to Constantin Brancusi), 1963\nyellow fluorescent light</p>\n<p>Richard Serra: House of Cards</p>\n<p>@DaviZwirner : 25 Years Exhibition</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Judd, Serra, Flavin.\n\nDonald Judd: Untitled, 1964\nLight cadmium red enamel on galvanized iron\n\nDan Flavin: the diagonal of May 25, 1963 (to Constantin Brancusi), 1963\nyellow fluorescent light\n\nRichard Serra: House of Cards\n\n@DaviZwirner : 25 Years Exhibition\n\n<img src=\"uploads/2018/e200b9b545.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Judd, Serra, Flavin.\n\nDonald Judd: Untitled, 1964\nLight cadmium red enamel on galvanized iron\n\nDan Flavin: the diagonal of May 25, 1963 (to Constantin Brancusi), 1963\nyellow fluorescent light\n\nRichard Serra: House of Cards\n\n@DaviZwirner : 25 Years Exhibition\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/e200b9b545.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-27T21:07:54-04:00",
 				"url": "https://micro.ericalba.com/2018/01/27/judd-serra-flavin.html",
 				"tags": ["Photos"]
@@ -1077,7 +1109,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/27/sherrie-levinenickel-plated.html",
 				
 				"content_html": "<p>Sherrie Levine\nNickel Plated Cast Bronze Antelope Skulls: Suite of Three, 2017</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sherrie Levine\nNickel Plated Cast Bronze Antelope Skulls: Suite of Three, 2017\n\n<img src=\"uploads/2018/26b4acdf11.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Sherrie Levine\nNickel Plated Cast Bronze Antelope Skulls: Suite of Three, 2017\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/26b4acdf11.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-27T20:49:53-04:00",
 				"url": "https://micro.ericalba.com/2018/01/27/sherrie-levinenickel-plated.html",
 				"tags": ["Photos"]
@@ -1094,7 +1126,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/22/touba-alipouramerica-closed.html",
 				
 				"content_html": "<p>Touba Alipour\n&ldquo;America Closed for Renovation&rdquo;\n2017</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Touba Alipour\n\"America Closed for Renovation\"\n2017\n\n<img src=\"uploads/2018/b3a212d3cc.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "Touba Alipour\n\"America Closed for Renovation\"\n2017\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/b3a212d3cc.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2018-01-22T15:34:47-04:00",
 				"url": "https://micro.ericalba.com/2018/01/22/touba-alipouramerica-closed.html",
 				"tags": ["Photos"]
@@ -1111,7 +1143,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/20/barry-mcgee-exhibit.html",
 				
 				"content_html": "<p>Barry McGee exhibit at @CheimRead.\nBoards on boards on boards on boards.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Barry McGee exhibit at @CheimRead. \nBoards on boards on boards on boards.\n\n<img src=\"uploads/2018/6485d1fff6.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Barry McGee exhibit at @CheimRead. \nBoards on boards on boards on boards.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/6485d1fff6.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-20T22:15:42-04:00",
 				"url": "https://micro.ericalba.com/2018/01/20/barry-mcgee-exhibit.html",
 				"tags": ["Photos"]
@@ -1120,7 +1152,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/20/trumprat-on-th.html",
 				
 				"content_html": "<p>#TRUMPRAT on 26th St</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#TRUMPRAT on 26th St\n\n<img src=\"uploads/2018/0a027fe984.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/f178a05987.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#TRUMPRAT on 26th St\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/0a027fe984.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/f178a05987.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-20T16:27:55-04:00",
 				"url": "https://micro.ericalba.com/2018/01/20/trumprat-on-th.html",
 				"tags": ["Photos"]
@@ -1129,7 +1161,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/14/survival-research-laboratories.html",
 				
 				"content_html": "<p><strong>Survival Research Laboratories</strong></p>\n<p><strong>Test upload pic from micro.blog web client.</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Survival Research Laboratories**\r\n\r\n__Test upload pic from micro.blog web client.__\r\n\r\n\n\n<img src=\"uploads/2018/ecb5fba6ea.jpg\" width=\"450\" height=\"600\" />\n",
+				"content_text": "**Survival Research Laboratories**\r\n\r\n__Test upload pic from micro.blog web client.__\r\n\r\n\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/ecb5fba6ea.jpg\" width=\"450\" height=\"600\" />\n",
 				"date_published": "2018-01-14T08:40:59-04:00",
 				"url": "https://micro.ericalba.com/2018/01/14/survival-research-laboratories.html",
 				"tags": ["Photos"]
@@ -1138,7 +1170,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/12/hey-why-dont.html",
 				
 				"content_html": "<p>“Hey, why don’t I get a laptop?”\nNice to come back to my desk and see this guy protecting the area. #Destructo @mill_ny</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Hey, why don’t I get a laptop?”\nNice to come back to my desk and see this guy protecting the area. #Destructo @mill_ny\n\n<img src=\"uploads/2018/b1fbfa4559.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "“Hey, why don’t I get a laptop?”\nNice to come back to my desk and see this guy protecting the area. #Destructo @mill_ny\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/b1fbfa4559.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-12T22:38:56-04:00",
 				"url": "https://micro.ericalba.com/2018/01/12/hey-why-dont.html",
 				"tags": ["Photos"]
@@ -1147,7 +1179,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/11/not-tbt-this.html",
 				
 				"content_html": "<p>Not #TBT . This is my today, so far. Swipe for deets. #Multitasking #Myth</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Not #TBT . This is my today, so far. Swipe for deets. #Multitasking #Myth\n\n<img src=\"uploads/2018/32eb0a66e5.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/882ac5a45d.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/bce3cc230a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Not #TBT . This is my today, so far. Swipe for deets. #Multitasking #Myth\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/32eb0a66e5.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/882ac5a45d.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/bce3cc230a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-11T21:07:45-04:00",
 				"url": "https://micro.ericalba.com/2018/01/11/not-tbt-this.html",
 				"tags": ["Photos"]
@@ -1156,7 +1188,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/09/hello-testing-image.html",
 				
 				"content_html": "<p>Hello. Testing image upload from iOS app.\nAh. So i guess they upload square crop? The filter options are nice.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello. Testing image upload from iOS app.\nAh. So i guess they upload square crop? The filter options are nice. \n\n<img src=\"uploads/2018/2f2f267f7d.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "Hello. Testing image upload from iOS app.\nAh. So i guess they upload square crop? The filter options are nice. \n\n<img src=\"http://ericalba.micro.blog/uploads/2018/2f2f267f7d.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-09T02:44:10-04:00",
 				"url": "https://micro.ericalba.com/2018/01/09/hello-testing-image.html",
 				"tags": ["Photos"]
@@ -1165,7 +1197,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/05/morning-notifications.html",
 				
 				"content_html": "<p>Morning notifications.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning notifications.\n\n<img src=\"uploads/2018/c8a0a29904.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "Morning notifications.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/c8a0a29904.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-01-05T10:09:00-04:00",
 				"url": "https://micro.ericalba.com/2018/01/05/morning-notifications.html",
 				"tags": ["Photos"]
@@ -1174,7 +1206,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/04/windy.html",
 				
 				"content_html": "<p>Windy.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Windy.\n\n<img src=\"uploads/2018/d0308a603c.jpg\" width=\"480\" height=\"600\" /><img src=\"uploads/2018/bf5026a396.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "Windy.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/d0308a603c.jpg\" width=\"480\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/bf5026a396.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-01-04T22:29:08-04:00",
 				"url": "https://micro.ericalba.com/2018/01/04/windy.html",
 				"tags": ["Photos"]
@@ -1183,7 +1215,7 @@
 				"id": "http://ericalba.micro.blog/2018/01/01/seeing-through-sweaty.html",
 				
 				"content_html": "<p>Seeing ❤️ through sweaty windows.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seeing ❤️ through sweaty windows.\n\n<img src=\"uploads/2018/7ba86783f0.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Seeing ❤️ through sweaty windows.\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/7ba86783f0.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-01T05:10:59-04:00",
 				"url": "https://micro.ericalba.com/2018/01/01/seeing-through-sweaty.html",
 				"tags": ["Photos"]
@@ -1192,7 +1224,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/29/bestnine-likes-to.html",
 				
 				"content_html": "<p>#2017bestnine , 17,561 Likes to 255 posts.\nI&rsquo;m glad to see my two loves made the list; my nephew Wally and Ramen. Swipe to see Wally dancing, then not dancing (thanks @tracyherold ) .\nps I also love lasers 💥\nThank y&rsquo;all for the likes. Have a Happy New Year! 🎉</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#2017bestnine , 17,561 Likes to 255 posts.\nI'm glad to see my two loves made the list; my nephew Wally and Ramen. Swipe to see Wally dancing, then not dancing (thanks @tracyherold ) .\nps I also love lasers 💥 \nThank y'all for the likes. Have a Happy New Year! 🎉\n\n<img src=\"uploads/2018/04af8a5c18.jpg\" width=\"598\" height=\"600\" /><img src=\"uploads/2018/63fce0461a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#2017bestnine , 17,561 Likes to 255 posts.\nI'm glad to see my two loves made the list; my nephew Wally and Ramen. Swipe to see Wally dancing, then not dancing (thanks @tracyherold ) .\nps I also love lasers 💥 \nThank y'all for the likes. Have a Happy New Year! 🎉\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/04af8a5c18.jpg\" width=\"598\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/63fce0461a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-12-29T19:08:49-04:00",
 				"url": "https://micro.ericalba.com/2017/12/29/bestnine-likes-to.html",
 				"tags": ["Photos"]
@@ -1201,7 +1233,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/21/day-v-day.html",
 				
 				"content_html": "<p>Day 01 v. Day 18,263</p>\n<p>Some people say I&rsquo;ve had many lives. 🤔 maybe. - Grew up in New Jersey/Southern California. Catholic school in there somewhere. - Worked @ Disneyland in High School, every kind of job, stayed on 4 more years. Plus 2 more jobs to pay bills. - Had crisis, quit all jobs. Swore I wouldn&rsquo;t take another job until &ldquo;It was the job I would have for the rest of my life.&rdquo; (I was an idiot) - Became homeless, surfed couches. lived in car, car repossessed. Then lived in storage facility near In-N-Out &amp; AM/PM. Everyday ate AM/PM, good days ate In-N-Out. Really good days, friends buy me food. - While homeless, became Ticket Scalper for sports &amp; shows. Everyday I‘m hustlin. - Friend got me job for night shift videotape operator. Things got better. I learn editing on side. - Another friend, comvinces me to take class in Visual Effects at facility doing effects for TV show Star Trek: The Next Generation. I learned, met all artists working on show. This was also great. I knew what i wanted to do with my life. - Another good friend gets me interview for internship in Post &amp; VFX. I meet producer, am offered full-time, Un-Paid internship. I took it &amp; did that &amp; real job simultaneously. Brutal but work was understanding, adjusts my schedule to do both. - I do internship for months, was hired in VFX Dept for next season of Star Trek: TNG &amp; DS9.</p>\n<p>I didn&rsquo;t goto college. Disneyland was my college. I didn&rsquo;t goto Film School, Star Trek was my Film School. Most of what I learned about filmmaking was from hundreds of crew, generous to teach me. I will never forget that experience. - Friend working on another TV show offered me VFX Supervisor job on TV show in Vancouver. I took it. After that, I continued to work as Supervisor/Producer on too many projects for over 20 years. Now in NYC where I still work in bleeding edge technology.</p>\n<p>I would definitely not be where I am if not for my friends &amp; their trust in me. Every opportunity was from a friend. Show your appreciation when you can.</p>\n<p>But life isn&rsquo;t all work. To quote Ferris Bueller, &ldquo;Life moves pretty fast. If you don’t stop and look around once in awhile, you could miss it.&rdquo; Live your life. 💯🙏❤️🙌</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 01 v. Day 18,263\n\nSome people say I've had many lives. 🤔 maybe. - Grew up in New Jersey/Southern California. Catholic school in there somewhere. - Worked @ Disneyland in High School, every kind of job, stayed on 4 more years. Plus 2 more jobs to pay bills. - Had crisis, quit all jobs. Swore I wouldn't take another job until \"It was the job I would have for the rest of my life.\" (I was an idiot) - Became homeless, surfed couches. lived in car, car repossessed. Then lived in storage facility near In-N-Out & AM/PM. Everyday ate AM/PM, good days ate In-N-Out. Really good days, friends buy me food. - While homeless, became Ticket Scalper for sports & shows. Everyday I‘m hustlin. - Friend got me job for night shift videotape operator. Things got better. I learn editing on side. - Another friend, comvinces me to take class in Visual Effects at facility doing effects for TV show Star Trek: The Next Generation. I learned, met all artists working on show. This was also great. I knew what i wanted to do with my life. - Another good friend gets me interview for internship in Post & VFX. I meet producer, am offered full-time, Un-Paid internship. I took it & did that & real job simultaneously. Brutal but work was understanding, adjusts my schedule to do both. - I do internship for months, was hired in VFX Dept for next season of Star Trek: TNG & DS9.\n\nI didn't goto college. Disneyland was my college. I didn't goto Film School, Star Trek was my Film School. Most of what I learned about filmmaking was from hundreds of crew, generous to teach me. I will never forget that experience. - Friend working on another TV show offered me VFX Supervisor job on TV show in Vancouver. I took it. After that, I continued to work as Supervisor/Producer on too many projects for over 20 years. Now in NYC where I still work in bleeding edge technology.\n\nI would definitely not be where I am if not for my friends & their trust in me. Every opportunity was from a friend. Show your appreciation when you can.\n\nBut life isn't all work. To quote Ferris Bueller, \"Life moves pretty fast. If you don’t stop and look around once in awhile, you could miss it.\" Live your life. 💯🙏❤️🙌\n\n<img src=\"uploads/2018/22b6cb7ad1.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Day 01 v. Day 18,263\n\nSome people say I've had many lives. 🤔 maybe. - Grew up in New Jersey/Southern California. Catholic school in there somewhere. - Worked @ Disneyland in High School, every kind of job, stayed on 4 more years. Plus 2 more jobs to pay bills. - Had crisis, quit all jobs. Swore I wouldn't take another job until \"It was the job I would have for the rest of my life.\" (I was an idiot) - Became homeless, surfed couches. lived in car, car repossessed. Then lived in storage facility near In-N-Out & AM/PM. Everyday ate AM/PM, good days ate In-N-Out. Really good days, friends buy me food. - While homeless, became Ticket Scalper for sports & shows. Everyday I‘m hustlin. - Friend got me job for night shift videotape operator. Things got better. I learn editing on side. - Another friend, comvinces me to take class in Visual Effects at facility doing effects for TV show Star Trek: The Next Generation. I learned, met all artists working on show. This was also great. I knew what i wanted to do with my life. - Another good friend gets me interview for internship in Post & VFX. I meet producer, am offered full-time, Un-Paid internship. I took it & did that & real job simultaneously. Brutal but work was understanding, adjusts my schedule to do both. - I do internship for months, was hired in VFX Dept for next season of Star Trek: TNG & DS9.\n\nI didn't goto college. Disneyland was my college. I didn't goto Film School, Star Trek was my Film School. Most of what I learned about filmmaking was from hundreds of crew, generous to teach me. I will never forget that experience. - Friend working on another TV show offered me VFX Supervisor job on TV show in Vancouver. I took it. After that, I continued to work as Supervisor/Producer on too many projects for over 20 years. Now in NYC where I still work in bleeding edge technology.\n\nI would definitely not be where I am if not for my friends & their trust in me. Every opportunity was from a friend. Show your appreciation when you can.\n\nBut life isn't all work. To quote Ferris Bueller, \"Life moves pretty fast. If you don’t stop and look around once in awhile, you could miss it.\" Live your life. 💯🙏❤️🙌\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/22b6cb7ad1.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2017-12-21T22:34:39-04:00",
 				"url": "https://micro.ericalba.com/2017/12/21/day-v-day.html",
 				"tags": ["Photos"]
@@ -1210,7 +1242,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/20/day-before-dayfornightfest.html",
 				
 				"content_html": "<p>Day before @dayfornightfest launch. <a href=\"https://micro.blog/ross\">@ross</a>.mccampbell &amp; @james_zanoni do last minute tweaks on all their great festival animations. @kindakash and I giving unsolicited feedback, while Ross &amp; James tell us to F ourselves. ¯_(ツ)_/¯</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Day before @dayfornightfest launch. [@ross](https://micro.blog/ross).mccampbell & @james_zanoni do last minute tweaks on all their great festival animations. @kindakash and I giving unsolicited feedback, while Ross & James tell us to F ourselves. ¯\\_(ツ)_/¯\n\n<img src=\"uploads/2018/40bae74e58.jpg\" width=\"600\" height=\"449\" /><img src=\"uploads/2018/c252b15b7c.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "Day before @dayfornightfest launch. [@ross](https://micro.blog/ross).mccampbell & @james_zanoni do last minute tweaks on all their great festival animations. @kindakash and I giving unsolicited feedback, while Ross & James tell us to F ourselves. ¯\\_(ツ)_/¯\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/40bae74e58.jpg\" width=\"600\" height=\"449\" /><img src=\"http://ericalba.micro.blog/uploads/2018/c252b15b7c.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2017-12-20T03:45:32-04:00",
 				"url": "https://micro.ericalba.com/2017/12/20/day-before-dayfornightfest.html",
 				"tags": ["Photos"]
@@ -1219,7 +1251,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/18/better-image-of.html",
 				
 				"content_html": "<p>Better image of “Telestron“ . Thanks to @VTProDesign for giving @kindakash and I a preview before launch at @DayForNightFest . I stood in line to see this 6 Times during the fest. And I hate lines.\nI showed a video of your piece to a child and he has some questions:</p>\n<ol>\n<li>What are the robots’ names?</li>\n<li>Are they friends? (if “No”, he says they should be friends) and</li>\n<li>Are they talking to each other?\nI hope you got some answers. 😉</li>\n</ol>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Better image of “Telestron“ . Thanks to @VTProDesign for giving @kindakash and I a preview before launch at @DayForNightFest . I stood in line to see this 6 Times during the fest. And I hate lines. \nI showed a video of your piece to a child and he has some questions: \n1. What are the robots’ names? \n2. Are they friends? (if “No”, he says they should be friends) and \n3. Are they talking to each other? \nI hope you got some answers. 😉\n\n<img src=\"uploads/2018/f7145e5ce6.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/09ef0bcf2a.jpg\" width=\"600\" height=\"600\" /><img src=\"uploads/2018/1d121d0d59.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Better image of “Telestron“ . Thanks to @VTProDesign for giving @kindakash and I a preview before launch at @DayForNightFest . I stood in line to see this 6 Times during the fest. And I hate lines. \nI showed a video of your piece to a child and he has some questions: \n1. What are the robots’ names? \n2. Are they friends? (if “No”, he says they should be friends) and \n3. Are they talking to each other? \nI hope you got some answers. 😉\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/f7145e5ce6.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/09ef0bcf2a.jpg\" width=\"600\" height=\"600\" /><img src=\"http://ericalba.micro.blog/uploads/2018/1d121d0d59.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-12-18T22:46:03-04:00",
 				"url": "https://micro.ericalba.com/2017/12/18/better-image-of.html",
 				"tags": ["Photos"]
@@ -1228,7 +1260,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/18/light-leaks-by.html",
 				
 				"content_html": "<p>“Light Leaks” by Kyle Mcdonald @kcimc + Jonas Jongejan @halfdanj</p>\n<p>I really enjoy and appreciate this project, lots of hard work went into this. “A scattered array of mirror balls reflect light from multiple projectors, filling a room completely with small reflections, casting patterns that fill the visitor’s peripheral vision.“</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Light Leaks” by Kyle Mcdonald @kcimc + Jonas Jongejan @halfdanj\n\nI really enjoy and appreciate this project, lots of hard work went into this. “A scattered array of mirror balls reflect light from multiple projectors, filling a room completely with small reflections, casting patterns that fill the visitor’s peripheral vision.“\n\n<img src=\"uploads/2018/f731456ad4.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "“Light Leaks” by Kyle Mcdonald @kcimc + Jonas Jongejan @halfdanj\n\nI really enjoy and appreciate this project, lots of hard work went into this. “A scattered array of mirror balls reflect light from multiple projectors, filling a room completely with small reflections, casting patterns that fill the visitor’s peripheral vision.“\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/f731456ad4.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2017-12-18T22:13:59-04:00",
 				"url": "https://micro.ericalba.com/2017/12/18/light-leaks-by.html",
 				"tags": ["Photos"]
@@ -1237,7 +1269,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/18/thats-a-wrap.html",
 				
 				"content_html": "<p>That’s a wrap at @DayForNightFest . Thanks @workorderdesign , @alexczetwertynski &amp; rest of team for inviting us, supporting our piece and for a great event. See y’all on the next one! 💥 🙌</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That’s a wrap at @DayForNightFest . Thanks @workorderdesign , @alexczetwertynski & rest of team for inviting us, supporting our piece and for a great event. See y’all on the next one! 💥 🙌\n\n<img src=\"uploads/2018/36e2c4c250.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "That’s a wrap at @DayForNightFest . Thanks @workorderdesign , @alexczetwertynski & rest of team for inviting us, supporting our piece and for a great event. See y’all on the next one! 💥 🙌\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/36e2c4c250.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2017-12-18T12:20:48-04:00",
 				"url": "https://micro.ericalba.com/2017/12/18/thats-a-wrap.html",
 				"tags": ["Photos"]
@@ -1246,7 +1278,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/18/cluster-by-playmodesstudio.html",
 				
 				"content_html": "<p>“Cluster” by @PlayModesStudio</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Cluster” by @PlayModesStudio\n\n<img src=\"uploads/2018/3cd88357ae.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "“Cluster” by @PlayModesStudio\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/3cd88357ae.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2017-12-18T04:35:06-04:00",
 				"url": "https://micro.ericalba.com/2017/12/18/cluster-by-playmodesstudio.html",
 				"tags": ["Photos"]
@@ -1255,7 +1287,7 @@
 				"id": "http://ericalba.micro.blog/2017/12/18/gust-by-theodorefivel.html",
 				
 				"content_html": "<p>“GUST” by @TheodoreFivel\n#DayForNightFest</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“GUST” by @TheodoreFivel\n#DayForNightFest\n\n<img src=\"uploads/2018/7b0f1c7513.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "“GUST” by @TheodoreFivel\n#DayForNightFest\n\n<img src=\"http://ericalba.micro.blog/uploads/2018/7b0f1c7513.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2017-12-18T04:01:41-04:00",
 				"url": "https://micro.ericalba.com/2017/12/18/gust-by-theodorefivel.html",
 				"tags": ["Photos"]
